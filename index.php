@@ -5,7 +5,7 @@
 
     <title>Benjamin Florentin - Portfolio</title>
 
-     <meta charset="UTF-8">
+    <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Voici le Portfolio de Benjamin Florentin : ses études, son expérience, ses coordonnées, etc..." />
@@ -143,65 +143,35 @@
                 <div class="container">
                     <div class="row no-gutter">
                         <div class="col-lg-12 text-center">
-                         <h2 class="section-heading">Mes projets</h2>
-                         <hr class="primary">
-                     </div>
-
-                     <!-- GSB FRAIS-->
-                     <div class="col-lg-6 col-sm-6">
-                        <a href="#gsb_frais" class="portfolio-box">
-                            <img src="img/gsb_frais.png" class="img-responsive" alt="">
-                            <div class="portfolio-box-caption">
-                                <div class="portfolio-box-caption-content">
-                                    <button class="project-category text-faded" style="color: #fff; hover: #eb3812; background-color: rgba(240,95,64,.9); border: none; border-radius: 10px;" data-toggle="modal" data-target="#gsb_frais">
-                                        PPE
-                                        <br/>
-                                        GSB FRAIS
-                                    </button>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                    <!-- Modal -->
-                    <div class="modal fade" id="gsb_frais" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-                        <div class="modal-dialog" style="width: 90%">
-                            <div class="modal-content">
-                                <div class="modal-header">
-                                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-                                    <h4 class="modal-title" id="myModalLabel">GSB - Site internet de gestion des frais</h4>
-                                </div>
-                                <div class="modal-body">
-                                    <?php include'gsb_frais.php'; ?>
-                                </div>
-                            </div><!-- /.modal-content -->
-                        </div><!-- /.modal-dialog -->
-                    </div><!-- /.modal -->
+                           <h2 class="section-heading">Mes projets</h2>
+                           <hr class="primary">
+                       </div>
 
 
-                    <!-- Gro Coop -->
-                    <div class="col-lg-6 col-sm-6">
-                        <a href="#gro_coop" class="portfolio-box">
-                            <img src="img/gro_coop.png" class="img-responsive" alt="IC">
-                            <div class="portfolio-box-caption">
-                                <div class="portfolio-box-caption-content">
-                                   <button class="project-category text-faded" style="color: #fff; hover: #eb3812; background-color: rgba(240,95,64,.9); border: none; border-radius: 10px;" data-toggle="modal" data-target="#gro_coop">
-                                    PPE
-                                    <br/>
-                                    Gro Coop
-                                </button>
-                            </div>
+                       <div class="col-lg-6 col-sm-6">
+                            <a href="#famillydog" class="portfolio-box">
+                                <img src="img/7.jpg" class="img-responsive" alt="">
+                                <div class="portfolio-box-caption">
+                                    <div class="portfolio-box-caption-content">
+                                         <button class="project-category text-faded" style="color: #fff; hover: #eb3812; background-color: rgba(240,95,64,.9); border: none; border-radius: 10px;" data-toggle="modal" data-target="#famillydog">
+                                            Stage
+                                            <br/>
+                                            Famillydog
+                                        </button>
+                                    </div>
+                                </div>
+                            </a>
                         </div>
-                    </a>
-                </div>
-                <div class="modal fade" id="gro_coop" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+                <!-- Modal -->
+                <div class="modal fade" id="famillydog" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
                     <div class="modal-dialog" style="width: 90%">
                         <div class="modal-content">
                             <div class="modal-header">
                                 <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-                                <h4 class="modal-title" id="myModalLabel">Gro Coop - Intranet de la Coop&#233;rative Agricole de Groville</h4>
+                                <h4 class="modal-title" id="myModalLabel">Famillydog</h4>
                             </div>
                             <div class="modal-body">
-                                <?php include'gro_coop.php'; ?>
+                                <?php include'famillydog.php'; ?>
                             </div>
                         </div><!-- /.modal-content -->
                     </div><!-- /.modal-dialog -->
@@ -209,69 +179,39 @@
 
 
                 <div class="col-lg-6 col-sm-6">
-                    <a href="#famillydog" class="portfolio-box">
-                        <img src="img/7.jpg" class="img-responsive" alt="">
+                    <a href="#ben" class="portfolio-box">
+                        <img src="img/ben&xav.png" class="img-responsive" alt="">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
-                               <button class="project-category text-faded" style="color: #fff; hover: #eb3812; background-color: rgba(240,95,64,.9); border: none; border-radius: 10px;" data-toggle="modal" data-target="#famillydog">
-                                Stage
+                             <button class="project-category text-faded" style="color: #fff; hover: #eb3812; background-color: rgba(240,95,64,.9); border: none; border-radius: 10px;" data-toggle="modal" data-target="#ben">
+                                Personnel
                                 <br/>
-                                Famillydog
+                                Ben & Xav'
                             </button>
                         </div>
                     </div>
                 </a>
             </div>
             <!-- Modal -->
-            <div class="modal fade" id="famillydog" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+            <div class="modal fade" id="ben" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
                 <div class="modal-dialog" style="width: 90%">
                     <div class="modal-content">
                         <div class="modal-header">
                             <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-                            <h4 class="modal-title" id="myModalLabel">Famillydog</h4>
+                            <h4 class="modal-title" id="myModalLabel">Ben & Xav'</h4>
                         </div>
                         <div class="modal-body">
-                            <?php include'famillydog.php'; ?>
+                            <?php include'ben_&_xav.php'; ?>
                         </div>
                     </div><!-- /.modal-content -->
                 </div><!-- /.modal-dialog -->
             </div><!-- /.modal -->
-
-
-            <div class="col-lg-6 col-sm-6">
-                <a href="#ben" class="portfolio-box">
-                    <img src="img/ben&xav.png" class="img-responsive" alt="">
-                    <div class="portfolio-box-caption">
-                        <div class="portfolio-box-caption-content">
-                           <button class="project-category text-faded" style="color: #fff; hover: #eb3812; background-color: rgba(240,95,64,.9); border: none; border-radius: 10px;" data-toggle="modal" data-target="#ben">
-                            Personnel
-                            <br/>
-                            Ben & Xav'
-                        </button>
-                    </div>
-                </div>
-            </a>
         </div>
-        <!-- Modal -->
-        <div class="modal fade" id="ben" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-            <div class="modal-dialog" style="width: 90%">
-                <div class="modal-content">
-                    <div class="modal-header">
-                        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-                        <h4 class="modal-title" id="myModalLabel">Ben & Xav'</h4>
-                    </div>
-                    <div class="modal-body">
-                        <?php include'ben_&_xav.php'; ?>
-                    </div>
-                </div><!-- /.modal-content -->
-            </div><!-- /.modal-dialog -->
-        </div><!-- /.modal -->
-    </div>
-    <br/>
-    <div class="col-lg-12 text-center">
-     <a href="#veille" class="btn btn-primary btn-xl page-scroll">Ma veille technologique</a>
- </div>
-</div>
+        <br/>
+        <div class="col-lg-12 text-center">
+           <a href="#stage" class="btn btn-primary btn-xl page-scroll">Mes stages</a>
+       </div>
+   </div>
 </section>
 
 <section class="bg-primary" id="stage">
@@ -326,27 +266,13 @@
             <div class="col-lg-8 col-lg-offset-2 text-center">
                 <h2 class="section-heading">Ma veille technologique</h2>
                 <hr class="primary">
-                <p>La veille technologique consiste &#224; s&#39;informer de fa&#231;on syst&#233;matique sur les nouvelles techniques dans le but d&#39;&#234;tre toujours averti des derni&#232;res avanc&#233;es technologiques ainsi qu&#39;&#234;tre le meilleur dans son domaine professionnel. <br/>
-                    Aujourd&#39;hui, la veille technologique poss&#232;de une place majeure dans le travail d&#39;un informaticien.
-                    <br/>
-                    La veille technologique est utilis&#233;e principalement pour :
-                    <ul class="list-unstyled">
-                        <li>Suivre les &#233;volutions techniques</li>
-                        <li>D&#233;gager de nouveaux proc&#233;d&#233;s ou mat&#233;riaux de substitutions</li>
-                        <li>Anticiper sur la concurrence: on peut ainsi rester &#224; la pointe du march&#233; en acqu&#233;rant toutes les nouvelles technologies qui permettent de disposer d&#39;un avantage concurrentiel</li>
-                        <li>Diminuer les co&#251;ts de production</li>
-                        <li>Augmenter la qualit&#233; des produits</li>
-                        <li>Identifier les meilleures pratiques</li>
-                    </ul>
-
-                </p>
             </div>
         </div>
     </div>
     <div class="container">
-       <?php include'rss.php'; ?>
-   </div>
-   <div class="container">
+     <?php include'rss.php'; ?>
+ </div>
+ <div class="container">
     <div class="row">
         <div class="col-lg-8 col-lg-offset-2 text-center">
             <br/>

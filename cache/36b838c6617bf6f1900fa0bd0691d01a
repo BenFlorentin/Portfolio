@@ -1,122 +1,122 @@
-O:9:"MagpieRSS":21:{s:6:"parser";i:0;s:12:"current_item";a:0:{}s:5:"items";a:20:{i:0;a:6:{s:5:"about";s:109:"http://www.lemondeinformatique.fr/actualites/lire-oracle-nie-avoir-achete-sun-pour-attaquer-google-64843.html";s:5:"title";s:49:"Oracle nie avoir acheté Sun pour attaquer Google";s:11:"description";s:177:"
+O:9:"MagpieRSS":21:{s:6:"parser";i:0;s:12:"current_item";a:0:{}s:5:"items";a:20:{i:0;a:6:{s:5:"about";s:162:"http://www.lemondeinformatique.fr/actualites/lire-recap-it-google-i-o-et-tibconow-2016-microsoft-vend-ses-telephones-nokia-l-ecole-42-en-silicon-valley-64893.html";s:5:"title";s:107:"Recap IT : Google I/O et TibcoNow 2016, Microsoft vend ses téléphones Nokia, L'Ecole 42 en Silicon Valley";s:11:"description";s:166:"
+		Google I/O 2016.&nbsp;A l'occasion de sa conf&eacute;rence d&eacute;veloppeurs I/O qui s'est tenu&nbsp;&agrave; Mountain View du 18 au 20 mai, Google a (...)
+		
+		";s:4:"link";s:162:"http://www.lemondeinformatique.fr/actualites/lire-recap-it-google-i-o-et-tibconow-2016-microsoft-vend-ses-telephones-nokia-l-ecole-42-en-silicon-valley-64893.html";s:2:"dc";a:3:{s:4:"date";s:25:"2016-05-20T18:07:43+01:00";s:8:"language";s:2:"fr";s:7:"creator";s:19:"Dominique Filippone";}s:7:"summary";s:166:"
+		Google I/O 2016.&nbsp;A l'occasion de sa conf&eacute;rence d&eacute;veloppeurs I/O qui s'est tenu&nbsp;&agrave; Mountain View du 18 au 20 mai, Google a (...)
+		
+		";}i:1;a:6:{s:5:"about";s:116:"http://www.lemondeinformatique.fr/actualites/lire-open-va-former-80-data-scientists-avec-centrale-supelec-64889.html";s:5:"title";s:55:"Open va former 80 data scientists avec Centrale-Supelec";s:11:"description";s:168:"
+		Si la majorit&eacute; des entreprises consid&egrave;rent le traitement des donn&eacute;es comme un axe strat&eacute;gique, &nbsp;pour autant, trouver les (...)
+		
+		";s:4:"link";s:116:"http://www.lemondeinformatique.fr/actualites/lire-open-va-former-80-data-scientists-avec-centrale-supelec-64889.html";s:2:"dc";a:3:{s:4:"date";s:25:"2016-05-20T14:47:28+01:00";s:8:"language";s:2:"fr";s:7:"creator";s:17:"Véronique Arène";}s:7:"summary";s:168:"
+		Si la majorit&eacute; des entreprises consid&egrave;rent le traitement des donn&eacute;es comme un axe strat&eacute;gique, &nbsp;pour autant, trouver les (...)
+		
+		";}i:2;a:6:{s:5:"about";s:126:"http://www.lemondeinformatique.fr/actualites/lire-dell-termine-la-convergence-de-ses-baies-compellent-et-equallogic-64887.html";s:5:"title";s:65:"Dell termine la convergence de ses baies Compellent et EqualLogic";s:11:"description";s:167:"
+		Il est parfois compliqu&eacute; de faire fonctionner ensemble des syst&egrave;mes de stockage, m&ecirc;me quand ils proviennent du m&ecirc;me fabricant. (...)
+		
+		";s:4:"link";s:126:"http://www.lemondeinformatique.fr/actualites/lire-dell-termine-la-convergence-de-ses-baies-compellent-et-equallogic-64887.html";s:2:"dc";a:3:{s:4:"date";s:25:"2016-05-20T13:54:59+01:00";s:8:"language";s:2:"fr";s:7:"creator";s:58:"Stephen Lawson / IDG News Service (adapté par Jean Elyan)";}s:7:"summary";s:167:"
+		Il est parfois compliqu&eacute; de faire fonctionner ensemble des syst&egrave;mes de stockage, m&ecirc;me quand ils proviennent du m&ecirc;me fabricant. (...)
+		
+		";}i:3;a:6:{s:5:"about";s:143:"http://www.lemondeinformatique.fr/actualites/lire-hackathon-compte-personnel-d-activite-le-ministere-du-travail-designe-les-laureats-64885.html";s:5:"title";s:88:"Hackathon compte personnel d'activité : Le ministère du Travail désigne les lauréats";s:11:"description";s:167:"
+		Les 8 et 9 avril dernier, la ministre du Travail, de l'Emploi, de la Formation professionnelle et du Dialogue social Myriam El Khomri,et Axelle Lemaire, (...)
+		
+		";s:4:"link";s:143:"http://www.lemondeinformatique.fr/actualites/lire-hackathon-compte-personnel-d-activite-le-ministere-du-travail-designe-les-laureats-64885.html";s:2:"dc";a:3:{s:4:"date";s:25:"2016-05-20T13:30:09+01:00";s:8:"language";s:2:"fr";s:7:"creator";s:17:"Véronique Arène";}s:7:"summary";s:167:"
+		Les 8 et 9 avril dernier, la ministre du Travail, de l'Emploi, de la Formation professionnelle et du Dialogue social Myriam El Khomri,et Axelle Lemaire, (...)
+		
+		";}i:4;a:6:{s:5:"about";s:107:"http://www.lemondeinformatique.fr/actualites/lire-l-app-de-geolocalisation-zenly-leve-10-meteuro-64877.html";s:5:"title";s:48:"L'app de géolocalisation Zenly lève 10 M&euro;";s:11:"description";s:171:"
+		En quelques mois, l&rsquo;app Zenly pour iOS et Android a &eacute;t&eacute; t&eacute;l&eacute;charg&eacute;e plus d&rsquo;un million de fois dans sa version (...)
+		
+		";s:4:"link";s:107:"http://www.lemondeinformatique.fr/actualites/lire-l-app-de-geolocalisation-zenly-leve-10-meteuro-64877.html";s:2:"dc";a:3:{s:4:"date";s:25:"2016-05-20T11:15:59+01:00";s:8:"language";s:2:"fr";s:7:"creator";s:11:"Maryse Gros";}s:7:"summary";s:171:"
+		En quelques mois, l&rsquo;app Zenly pour iOS et Android a &eacute;t&eacute; t&eacute;l&eacute;charg&eacute;e plus d&rsquo;un million de fois dans sa version (...)
+		
+		";}i:5;a:6:{s:5:"about";s:114:"http://www.lemondeinformatique.fr/actualites/lire-sap-annonce-une-version-d-hana-a-tester-dans-le-cloud-64878.html";s:5:"title";s:54:"SAP annonce une version d'HANA à tester dans le cloud";s:11:"description";s:169:"
+		Dans le cadre de son &eacute;v&eacute;nement annuel Sapphire Now, SAP organise &agrave; Orlando a multipli&eacute; les annonces. Dont une nouvelle version (...)
+		
+		";s:4:"link";s:114:"http://www.lemondeinformatique.fr/actualites/lire-sap-annonce-une-version-d-hana-a-tester-dans-le-cloud-64878.html";s:2:"dc";a:3:{s:4:"date";s:25:"2016-05-20T10:12:31+01:00";s:8:"language";s:2:"fr";s:7:"creator";s:29:"Yannick Chavanne / ICTjournal";}s:7:"summary";s:169:"
+		Dans le cadre de son &eacute;v&eacute;nement annuel Sapphire Now, SAP organise &agrave; Orlando a multipli&eacute; les annonces. Dont une nouvelle version (...)
+		
+		";}i:6;a:6:{s:5:"about";s:110:"http://www.lemondeinformatique.fr/actualites/lire-droit-a-l-oubli-google-vent-debout-contre-la-cnil-64876.html";s:5:"title";s:52:"Droit à l'oubli : Google vent debout contre la Cnil";s:11:"description";s:175:"
+		Google a finalement fait appel de l'amende de 100 000 euros inflig&eacute;e en mars dernier par la Commission nationale de l'informatique et des libert&eacute;s (...)
+		
+		";s:4:"link";s:110:"http://www.lemondeinformatique.fr/actualites/lire-droit-a-l-oubli-google-vent-debout-contre-la-cnil-64876.html";s:2:"dc";a:3:{s:4:"date";s:25:"2016-05-19T18:38:43+01:00";s:8:"language";s:2:"fr";s:7:"creator";s:19:"Dominique Filippone";}s:7:"summary";s:175:"
+		Google a finalement fait appel de l'amende de 100 000 euros inflig&eacute;e en mars dernier par la Commission nationale de l'informatique et des libert&eacute;s (...)
+		
+		";}i:7;a:6:{s:5:"about";s:119:"http://www.lemondeinformatique.fr/actualites/lire-google-degaine-son-casque-de-realite-virtuelle-daydream-vr-64875.html";s:5:"title";s:61:"Google dégaine son casque de réalité virtuelle Daydream VR";s:11:"description";s:172:"
+		Avec le d&eacute;veloppement des applications de r&eacute;alit&eacute; virtuelle, Google ne pouvait plus se contenter de proposer le Cardboard, ce dispositif (...)
+		
+		";s:4:"link";s:119:"http://www.lemondeinformatique.fr/actualites/lire-google-degaine-son-casque-de-realite-virtuelle-daydream-vr-64875.html";s:2:"dc";a:3:{s:4:"date";s:25:"2016-05-19T18:01:05+01:00";s:8:"language";s:2:"fr";s:7:"creator";s:33:"Maryse Gros avec IDG News Service";}s:7:"summary";s:172:"
+		Avec le d&eacute;veloppement des applications de r&eacute;alit&eacute; virtuelle, Google ne pouvait plus se contenter de proposer le Cardboard, ce dispositif (...)
+		
+		";}i:8;a:6:{s:5:"about";s:118:"http://www.lemondeinformatique.fr/actualites/lire-google-i-o-2016-tour-de-chauffe-pour-android-n-et-wear-20-64872.html";s:5:"title";s:60:"Google I/O 2016 : Tour de chauffe pour Android N et Wear 2.0";s:11:"description";s:166:"
+		Hier, sur la keynote de sa conf&eacute;rence I/O, qui se tient actuellement &agrave; Mountain View jusqu'au 20 mai, Google a pr&eacute;sent&eacute; les (...)
+		
+		";s:4:"link";s:118:"http://www.lemondeinformatique.fr/actualites/lire-google-i-o-2016-tour-de-chauffe-pour-android-n-et-wear-20-64872.html";s:2:"dc";a:3:{s:4:"date";s:25:"2016-05-19T15:03:33+01:00";s:8:"language";s:2:"fr";s:7:"creator";s:33:"Maryse Gros avec IDG News Service";}s:7:"summary";s:166:"
+		Hier, sur la keynote de sa conf&eacute;rence I/O, qui se tient actuellement &agrave; Mountain View jusqu'au 20 mai, Google a pr&eacute;sent&eacute; les (...)
+		
+		";}i:9;a:6:{s:5:"about";s:143:"http://www.lemondeinformatique.fr/actualites/lire-i-o-2016 -google-devoile-tpu-son-unite-de-traitement-pour-l-apprentissage-machine-64873.html";s:5:"title";s:86:"I/O 2016 : Google dévoile TPU, son unité de traitement pour l'apprentissage machine";s:11:"description";s:173:"
+		Ces derni&egrave;res ann&eacute;es, la parution d&rsquo;annonces de recrutement dans la presse semblait indiquer que Google travaillait &agrave; la conception (...)
+		
+		";s:4:"link";s:143:"http://www.lemondeinformatique.fr/actualites/lire-i-o-2016 -google-devoile-tpu-son-unite-de-traitement-pour-l-apprentissage-machine-64873.html";s:2:"dc";a:3:{s:4:"date";s:25:"2016-05-19T14:10:32+01:00";s:8:"language";s:2:"fr";s:7:"creator";s:62:"Blair Hanley Frank / IDG News Service (adapté par Jean Elyan)";}s:7:"summary";s:173:"
+		Ces derni&egrave;res ann&eacute;es, la parution d&rsquo;annonces de recrutement dans la presse semblait indiquer que Google travaillait &agrave; la conception (...)
+		
+		";}i:10;a:6:{s:5:"about";s:111:"http://www.lemondeinformatique.fr/actualites/lire-24h-chrono-pour-programmer-un-robot-a-supinfo-lyon-64871.html";s:5:"title";s:51:"24h chrono pour programmer un robot à Supinfo Lyon";s:11:"description";s:165:"
+		Pour sa quatri&egrave;me &eacute;dition,&nbsp;la comp&eacute;tition en robotique organis&eacute; par l&rsquo;&eacute;cole d&rsquo;informatique Supinfo (...)
+		
+		";s:4:"link";s:111:"http://www.lemondeinformatique.fr/actualites/lire-24h-chrono-pour-programmer-un-robot-a-supinfo-lyon-64871.html";s:2:"dc";a:3:{s:4:"date";s:25:"2016-05-19T14:01:26+01:00";s:8:"language";s:2:"fr";s:7:"creator";s:17:"Véronique Arène";}s:7:"summary";s:165:"
+		Pour sa quatri&egrave;me &eacute;dition,&nbsp;la comp&eacute;tition en robotique organis&eacute; par l&rsquo;&eacute;cole d&rsquo;informatique Supinfo (...)
+		
+		";}i:11;a:6:{s:5:"about";s:126:"http://www.lemondeinformatique.fr/actualites/lire-tibconow-2016 -spotfire-s-etoffe-avec-du-data-wrangling-et-spark-64863.html";s:5:"title";s:67:"TibcoNow 2016 : Spotfire s'étoffe avec du data wrangling et Spark";s:11:"description";s:165:"
+		En direct de Las Vegas -&nbsp;La seconde matin&eacute;e de TibcoNow 2016 &eacute;tait plac&eacute;e sous le signe de &laquo;&nbsp;l&rsquo;intelligence (...)
+		
+		";s:4:"link";s:126:"http://www.lemondeinformatique.fr/actualites/lire-tibconow-2016 -spotfire-s-etoffe-avec-du-data-wrangling-et-spark-64863.html";s:2:"dc";a:3:{s:4:"date";s:25:"2016-05-19T09:58:02+01:00";s:8:"language";s:2:"fr";s:7:"creator";s:12:"Serge Leblal";}s:7:"summary";s:165:"
+		En direct de Las Vegas -&nbsp;La seconde matin&eacute;e de TibcoNow 2016 &eacute;tait plac&eacute;e sous le signe de &laquo;&nbsp;l&rsquo;intelligence (...)
+		
+		";}i:12;a:6:{s:5:"about";s:109:"http://www.lemondeinformatique.fr/actualites/lire-apple-renforce-son-armee-de-developpeurs-en-inde-64857.html";s:5:"title";s:50:"Apple renforce son armée de développeurs en Inde";s:11:"description";s:170:"
+		La soci&eacute;t&eacute; affirme qu&rsquo;elle compte des &laquo;&nbsp;dizaines de milliers&nbsp;&raquo; de d&eacute;veloppeurs d'applications iOS en Inde. (...)
+		
+		";s:4:"link";s:109:"http://www.lemondeinformatique.fr/actualites/lire-apple-renforce-son-armee-de-developpeurs-en-inde-64857.html";s:2:"dc";a:3:{s:4:"date";s:25:"2016-05-18T14:30:31+01:00";s:8:"language";s:2:"fr";s:7:"creator";s:56:"John Ribeiro / IDG News Service (adapté par Jean Elyan)";}s:7:"summary";s:170:"
+		La soci&eacute;t&eacute; affirme qu&rsquo;elle compte des &laquo;&nbsp;dizaines de milliers&nbsp;&raquo; de d&eacute;veloppeurs d'applications iOS en Inde. (...)
+		
+		";}i:13;a:6:{s:5:"about";s:121:"http://www.lemondeinformatique.fr/actualites/lire-sapphire-now-2016-sap-et-microsoft-integrent-hana-dans-azure-64855.html";s:5:"title";s:63:"Sapphire Now 2016 : SAP et Microsoft intègrent HANA dans Azure";s:11:"description";s:166:"
+		La collaboration entre SAP et Microsoft ne date pas d&rsquo;hier, mais elle se ravive fortement avec les nouveaut&eacute;s pr&eacute;sent&eacute;es par (...)
+		
+		";s:4:"link";s:121:"http://www.lemondeinformatique.fr/actualites/lire-sapphire-now-2016-sap-et-microsoft-integrent-hana-dans-azure-64855.html";s:2:"dc";a:3:{s:4:"date";s:25:"2016-05-18T12:53:41+01:00";s:8:"language";s:2:"fr";s:7:"creator";s:33:"Maryse Gros avec IDG News Service";}s:7:"summary";s:166:"
+		La collaboration entre SAP et Microsoft ne date pas d&rsquo;hier, mais elle se ravive fortement avec les nouveaut&eacute;s pr&eacute;sent&eacute;es par (...)
+		
+		";}i:14;a:6:{s:5:"about";s:122:"http://www.lemondeinformatique.fr/actualites/lire-tibconow-2016-les-api-au-coeur-de-la-transformation-numerique-64848.html";s:5:"title";s:64:"TibcoNow 2016 : Les API au coeur de la transformation numérique";s:11:"description";s:173:"
+		En direct de Las Vegas - Pour la premi&egrave;re journ&eacute;e de sa convention TibcoNow 2016, du 17 au 19 mai &agrave; Las Vegas, Tibco Software s&rsquo;est (...)
+		
+		";s:4:"link";s:122:"http://www.lemondeinformatique.fr/actualites/lire-tibconow-2016-les-api-au-coeur-de-la-transformation-numerique-64848.html";s:2:"dc";a:3:{s:4:"date";s:25:"2016-05-18T11:40:35+01:00";s:8:"language";s:2:"fr";s:7:"creator";s:12:"Serge Leblal";}s:7:"summary";s:173:"
+		En direct de Las Vegas - Pour la premi&egrave;re journ&eacute;e de sa convention TibcoNow 2016, du 17 au 19 mai &agrave; Las Vegas, Tibco Software s&rsquo;est (...)
+		
+		";}i:15;a:6:{s:5:"about";s:122:"http://www.lemondeinformatique.fr/actualites/lire-ubs-mise-sur-le-robot-conseiller-en-gestion-de-fortune-sigfig-64853.html";s:5:"title";s:61:"UBS mise sur le robot conseiller en gestion de fortune SigFig";s:11:"description";s:171:"
+		UBS Wealth Management Americas (UBS WMA) scelle une alliance strat&eacute;gique avec SigFig, un fournisseur am&eacute;ricain de technologies pour la gestion (...)
+		
+		";s:4:"link";s:122:"http://www.lemondeinformatique.fr/actualites/lire-ubs-mise-sur-le-robot-conseiller-en-gestion-de-fortune-sigfig-64853.html";s:2:"dc";a:3:{s:4:"date";s:25:"2016-05-18T11:34:49+01:00";s:8:"language";s:2:"fr";s:7:"creator";s:32:"Hélène Lelièvre / ICT Journal";}s:7:"summary";s:171:"
+		UBS Wealth Management Americas (UBS WMA) scelle une alliance strat&eacute;gique avec SigFig, un fournisseur am&eacute;ricain de technologies pour la gestion (...)
+		
+		";}i:16;a:6:{s:5:"about";s:99:"http://www.lemondeinformatique.fr/actualites/lire-google-i-o-2016-les-annonces-attendues-64841.html";s:5:"title";s:40:"Google I/O 2016 : Les annonces attendues";s:11:"description";s:168:"
+		A quelques heures du coup d'envoi de la conf&eacute;rence I/O 2016 de Google, les contours des annonces faites par la firme de Mountain View se dessinent (...)
+		
+		";s:4:"link";s:99:"http://www.lemondeinformatique.fr/actualites/lire-google-i-o-2016-les-annonces-attendues-64841.html";s:2:"dc";a:3:{s:4:"date";s:25:"2016-05-17T18:22:12+01:00";s:8:"language";s:2:"fr";s:7:"creator";s:71:"Blair Hanley Frank / IDG News Service (adapté par Dominique Filippone)";}s:7:"summary";s:168:"
+		A quelques heures du coup d'envoi de la conf&eacute;rence I/O 2016 de Google, les contours des annonces faites par la firme de Mountain View se dessinent (...)
+		
+		";}i:17;a:6:{s:5:"about";s:109:"http://www.lemondeinformatique.fr/actualites/lire-oracle-nie-avoir-achete-sun-pour-attaquer-google-64843.html";s:5:"title";s:49:"Oracle nie avoir acheté Sun pour attaquer Google";s:11:"description";s:177:"
 		Oracle avait-il pr&eacute;m&eacute;dit&eacute; de s&rsquo;en prendre &agrave; Google lorsqu&rsquo;il a d&eacute;cid&eacute; de mettre la main sur Sun Microsystems (...)
 		
 		";s:4:"link";s:109:"http://www.lemondeinformatique.fr/actualites/lire-oracle-nie-avoir-achete-sun-pour-attaquer-google-64843.html";s:2:"dc";a:3:{s:4:"date";s:25:"2016-05-17T17:20:31+01:00";s:8:"language";s:2:"fr";s:7:"creator";s:11:"Maryse Gros";}s:7:"summary";s:177:"
 		Oracle avait-il pr&eacute;m&eacute;dit&eacute; de s&rsquo;en prendre &agrave; Google lorsqu&rsquo;il a d&eacute;cid&eacute; de mettre la main sur Sun Microsystems (...)
 		
-		";}i:1;a:6:{s:5:"about";s:124:"http://www.lemondeinformatique.fr/actualites/lire-avec-l-app-realspend-sap-donne-acces-en-temps-reel-aux-depenses-64840.html";s:5:"title";s:67:"Avec l'app RealSpend, SAP donne accès en temps réel aux dépenses";s:11:"description";s:181:"
-		Avec sa derni&egrave;re application mobile RealSpend pour iOS, SAP apporte des fonctions de gestion et de simulation des budgets qui permettront aux diff&eacute;rents (...)
+		";}i:18;a:6:{s:5:"about";s:124:"http://www.lemondeinformatique.fr/actualites/lire-avec-l-app-realspend-sap-donne-acces-en-temps-reel-aux-depenses-64840.html";s:5:"title";s:67:"Avec l'app RealSpend, SAP donne accès en temps réel aux dépenses";s:11:"description";s:171:"
+		(mise &agrave; jour) Avec sa derni&egrave;re application mobile RealSpend, SAP apporte des fonctions de gestion et de simulation des budgets qui permettront (...)
 		
-		";s:4:"link";s:124:"http://www.lemondeinformatique.fr/actualites/lire-avec-l-app-realspend-sap-donne-acces-en-temps-reel-aux-depenses-64840.html";s:2:"dc";a:3:{s:4:"date";s:25:"2016-05-17T14:02:06+01:00";s:8:"language";s:2:"fr";s:7:"creator";s:11:"Maryse Gros";}s:7:"summary";s:181:"
-		Avec sa derni&egrave;re application mobile RealSpend pour iOS, SAP apporte des fonctions de gestion et de simulation des budgets qui permettront aux diff&eacute;rents (...)
+		";s:4:"link";s:124:"http://www.lemondeinformatique.fr/actualites/lire-avec-l-app-realspend-sap-donne-acces-en-temps-reel-aux-depenses-64840.html";s:2:"dc";a:3:{s:4:"date";s:25:"2016-05-17T14:02:06+01:00";s:8:"language";s:2:"fr";s:7:"creator";s:11:"Maryse Gros";}s:7:"summary";s:171:"
+		(mise &agrave; jour) Avec sa derni&egrave;re application mobile RealSpend, SAP apporte des fonctions de gestion et de simulation des budgets qui permettront (...)
 		
-		";}i:2;a:6:{s:5:"about";s:122:"http://www.lemondeinformatique.fr/actualites/lire-slack-debauche-le-vice-president-de-l-ingenierie-de-pinterest-64842.html";s:5:"title";s:64:"Slack débauche le vice-président de l'ingénierie de Pinterest";s:11:"description";s:174:"
+		";}i:19;a:6:{s:5:"about";s:122:"http://www.lemondeinformatique.fr/actualites/lire-slack-debauche-le-vice-president-de-l-ingenierie-de-pinterest-64842.html";s:5:"title";s:64:"Slack débauche le vice-président de l'ingénierie de Pinterest";s:11:"description";s:174:"
 		Michael Lopp a abandonn&eacute; le site de partage de photos Pinterest pour devenir vice-pr&eacute;sident de l&rsquo;ing&eacute;nierie de Slack, &eacute;diteur (...)
 		
 		";s:4:"link";s:122:"http://www.lemondeinformatique.fr/actualites/lire-slack-debauche-le-vice-president-de-l-ingenierie-de-pinterest-64842.html";s:2:"dc";a:3:{s:4:"date";s:25:"2016-05-17T13:54:38+01:00";s:8:"language";s:2:"fr";s:7:"creator";s:17:"Véronique Arène";}s:7:"summary";s:174:"
 		Michael Lopp a abandonn&eacute; le site de partage de photos Pinterest pour devenir vice-pr&eacute;sident de l&rsquo;ing&eacute;nierie de Slack, &eacute;diteur (...)
-		
-		";}i:3;a:6:{s:5:"about";s:106:"http://www.lemondeinformatique.fr/actualites/lire-e-sante-interaction-healthcare-leve-5-meteuro-64839.html";s:5:"title";s:49:"E-santé : Interaction Healthcare lève 5 M&euro;";s:11:"description";s:167:"
-		Cr&eacute;&eacute;e en 2008 par J&eacute;r&ocirc;me Leleu et Danielle Villedieu,&nbsp;l'agence digitale Interaction Healthcare positionn&eacute;e sur le (...)
-		
-		";s:4:"link";s:106:"http://www.lemondeinformatique.fr/actualites/lire-e-sante-interaction-healthcare-leve-5-meteuro-64839.html";s:2:"dc";a:3:{s:4:"date";s:25:"2016-05-17T13:28:48+01:00";s:8:"language";s:2:"fr";s:7:"creator";s:19:"Dominique Filippone";}s:7:"summary";s:167:"
-		Cr&eacute;&eacute;e en 2008 par J&eacute;r&ocirc;me Leleu et Danielle Villedieu,&nbsp;l'agence digitale Interaction Healthcare positionn&eacute;e sur le (...)
-		
-		";}i:4;a:6:{s:5:"about";s:115:"http://www.lemondeinformatique.fr/actualites/lire-une-app-onedrive-pour-windows-10-sur-pc-et-surface-hub-64837.html";s:5:"title";s:54:"Une app OneDrive pour Windows 10 sur PC et Surface Hub";s:11:"description";s:167:"
-		Microsoft vient de sortir pour les PC sous Windows 10 une app tactile pour utiliser son service de stockage en ligne OneDrive, consulter et partager ses (...)
-		
-		";s:4:"link";s:115:"http://www.lemondeinformatique.fr/actualites/lire-une-app-onedrive-pour-windows-10-sur-pc-et-surface-hub-64837.html";s:2:"dc";a:2:{s:4:"date";s:25:"2016-05-17T11:50:25+01:00";s:8:"language";s:2:"fr";}s:7:"summary";s:167:"
-		Microsoft vient de sortir pour les PC sous Windows 10 une app tactile pour utiliser son service de stockage en ligne OneDrive, consulter et partager ses (...)
-		
-		";}i:5;a:6:{s:5:"about";s:113:"http://www.lemondeinformatique.fr/actualites/lire-dell-etend-la-replication-de-bases-oracle-a-sap-hana-64829.html";s:5:"title";s:55:"Dell étend la réplication de bases Oracle à SAP HANA";s:11:"description";s:170:"
-		Pour permettre aux &eacute;quipes informatiques de faire plus facilement &eacute;voluer leurs environnements, Dell vient de mettre &agrave; jour SharePlex, (...)
-		
-		";s:4:"link";s:113:"http://www.lemondeinformatique.fr/actualites/lire-dell-etend-la-replication-de-bases-oracle-a-sap-hana-64829.html";s:2:"dc";a:3:{s:4:"date";s:25:"2016-05-17T10:09:49+01:00";s:8:"language";s:2:"fr";s:7:"creator";s:11:"Maryse Gros";}s:7:"summary";s:170:"
-		Pour permettre aux &eacute;quipes informatiques de faire plus facilement &eacute;voluer leurs environnements, Dell vient de mettre &agrave; jour SharePlex, (...)
-		
-		";}i:6;a:6:{s:5:"about";s:116:"http://www.lemondeinformatique.fr/actualites/lire-avec-artik-cloud-samsung-veut-casser-les-silos-de-l-iot-64830.html";s:5:"title";s:56:"Avec Artik Cloud, Samsung veut casser les silos de l'IoT";s:11:"description";s:167:"
-		Avec sa plate-forme Artik Cloud, Luc Julia, vice-pr&eacute;sident &eacute;cosyst&egrave;mes et IoT chez Samsung Strategy and Innovation Center et ancien (...)
-		
-		";s:4:"link";s:116:"http://www.lemondeinformatique.fr/actualites/lire-avec-artik-cloud-samsung-veut-casser-les-silos-de-l-iot-64830.html";s:2:"dc";a:3:{s:4:"date";s:25:"2016-05-17T10:08:35+01:00";s:8:"language";s:2:"fr";s:7:"creator";s:12:"Serge Leblal";}s:7:"summary";s:167:"
-		Avec sa plate-forme Artik Cloud, Luc Julia, vice-pr&eacute;sident &eacute;cosyst&egrave;mes et IoT chez Samsung Strategy and Innovation Center et ancien (...)
-		
-		";}i:7;a:6:{s:5:"about";s:119:"http://www.lemondeinformatique.fr/actualites/lire-avec-spaces-google-simplifie-le-partage-sur-ios-et-android-64831.html";s:5:"title";s:59:"Avec Spaces, Google simplifie le partage sur iOS et Android";s:11:"description";s:166:"
-		Deux jours avant l&rsquo;ouverture de sa conf&eacute;rence I/O (du 18 au 20 mai &agrave; Mountain View), Google annonce, sous le nom de Spaces, une app (...)
-		
-		";s:4:"link";s:119:"http://www.lemondeinformatique.fr/actualites/lire-avec-spaces-google-simplifie-le-partage-sur-ios-et-android-64831.html";s:2:"dc";a:3:{s:4:"date";s:25:"2016-05-16T18:23:13+01:00";s:8:"language";s:2:"fr";s:7:"creator";s:11:"Maryse Gros";}s:7:"summary";s:166:"
-		Deux jours avant l&rsquo;ouverture de sa conf&eacute;rence I/O (du 18 au 20 mai &agrave; Mountain View), Google annonce, sous le nom de Spaces, une app (...)
-		
-		";}i:8;a:6:{s:5:"about";s:128:"http://www.lemondeinformatique.fr/actualites/lire-le-patron-de-google-for-work-se-reoriente-dans-la-realite-virtuelle-64825.html";s:5:"title";s:70:"Le patron de Google for Work se réoriente dans la réalité virtuelle";s:11:"description";s:185:"
-		Amit Singh, jusqu'ici pr&eacute;sident de Google for Work, va quitter ses fonctions actuelles pour rejoindre l&rsquo;activit&eacute; de la firme sp&eacute;cialis&eacute;e (...)
-		
-		";s:4:"link";s:128:"http://www.lemondeinformatique.fr/actualites/lire-le-patron-de-google-for-work-se-reoriente-dans-la-realite-virtuelle-64825.html";s:2:"dc";a:3:{s:4:"date";s:25:"2016-05-16T14:43:12+01:00";s:8:"language";s:2:"fr";s:7:"creator";s:29:"Véronique Arène avec IDG NS";}s:7:"summary";s:185:"
-		Amit Singh, jusqu'ici pr&eacute;sident de Google for Work, va quitter ses fonctions actuelles pour rejoindre l&rsquo;activit&eacute; de la firme sp&eacute;cialis&eacute;e (...)
-		
-		";}i:9;a:6:{s:5:"about";s:106:"http://www.lemondeinformatique.fr/actualites/lire-google-part-en-guerre-contre-flash-avec-html5-64824.html";s:5:"title";s:45:"Google part en guerre contre flash avec HTML5";s:11:"description";s:171:"
-		Le projet r&eacute;v&eacute;l&eacute; par Google s&rsquo;appelle &laquo;&nbsp;HTML5 par d&eacute;faut&nbsp;&raquo;. Le navigateur Chrome continuera &agrave; (...)
-		
-		";s:4:"link";s:106:"http://www.lemondeinformatique.fr/actualites/lire-google-part-en-guerre-contre-flash-avec-html5-64824.html";s:2:"dc";a:3:{s:4:"date";s:25:"2016-05-16T13:39:59+01:00";s:8:"language";s:2:"fr";s:7:"creator";s:56:"John Ribeiro / IDG News Service (adapté par Jean Elyan)";}s:7:"summary";s:171:"
-		Le projet r&eacute;v&eacute;l&eacute; par Google s&rsquo;appelle &laquo;&nbsp;HTML5 par d&eacute;faut&nbsp;&raquo;. Le navigateur Chrome continuera &agrave; (...)
-		
-		";}i:10;a:6:{s:5:"about";s:124:"http://www.lemondeinformatique.fr/actualites/lire-avec-javapolyjs-les-navigateurs-web-exploitent-java-sans-applet-64823.html";s:5:"title";s:65:"Avec JavaPoly.js, les navigateurs web exploitent Java sans applet";s:11:"description";s:168:"
-		En combinant les univers Java et JavaScript, la JavaPoly.js &eacute;tend le support de la machine virtuelle Java aux navigateurs web &agrave; travers une (...)
-		
-		";s:4:"link";s:124:"http://www.lemondeinformatique.fr/actualites/lire-avec-javapolyjs-les-navigateurs-web-exploitent-java-sans-applet-64823.html";s:2:"dc";a:3:{s:4:"date";s:25:"2016-05-16T13:29:34+01:00";s:8:"language";s:2:"fr";s:7:"creator";s:45:"Paul Krill / IDG NS (adapté par Maryse Gros)";}s:7:"summary";s:168:"
-		En combinant les univers Java et JavaScript, la JavaPoly.js &eacute;tend le support de la machine virtuelle Java aux navigateurs web &agrave; travers une (...)
-		
-		";}i:11;a:6:{s:5:"about";s:124:"http://www.lemondeinformatique.fr/actualites/lire-comment-quantic-dream-prend-le-pouls-de-ses-systemes-et-reseaux-64814.html";s:5:"title";s:65:"Comment Quantic Dream prend le pouls de ses systèmes et réseaux";s:11:"description";s:165:"
-		P&eacute;pite fran&ccedil;aise de la cr&eacute;ation de jeux-vid&eacute;o depuis 1997 et &agrave; l'origine de hits tels que Nomad Soul, Heavy Rain ou (...)
-		
-		";s:4:"link";s:124:"http://www.lemondeinformatique.fr/actualites/lire-comment-quantic-dream-prend-le-pouls-de-ses-systemes-et-reseaux-64814.html";s:2:"dc";a:3:{s:4:"date";s:25:"2016-05-16T10:16:42+01:00";s:8:"language";s:2:"fr";s:7:"creator";s:19:"Dominique Filippone";}s:7:"summary";s:165:"
-		P&eacute;pite fran&ccedil;aise de la cr&eacute;ation de jeux-vid&eacute;o depuis 1997 et &agrave; l'origine de hits tels que Nomad Soul, Heavy Rain ou (...)
-		
-		";}i:12;a:6:{s:5:"about";s:108:"http://www.lemondeinformatique.fr/actualites/lire-google-lance-gboard-un-clavier-enrichi-pour-ios-64817.html";s:5:"title";s:48:"Google lance Gboard, un clavier enrichi pour iOS";s:11:"description";s:165:"
-		Google lance l'application Gboard, un clavier enrichi pour les utilisateurs d'iOS. Il permet d'effectuer des recherches directement depuis le clavier. (...)
-		
-		";s:4:"link";s:108:"http://www.lemondeinformatique.fr/actualites/lire-google-lance-gboard-un-clavier-enrichi-pour-ios-64817.html";s:2:"dc";a:3:{s:4:"date";s:25:"2016-05-16T09:32:09+01:00";s:8:"language";s:2:"fr";s:7:"creator";s:32:"Hélène Lelièvre / ICT Journal";}s:7:"summary";s:165:"
-		Google lance l'application Gboard, un clavier enrichi pour les utilisateurs d'iOS. Il permet d'effectuer des recherches directement depuis le clavier. (...)
-		
-		";}i:13;a:6:{s:5:"about";s:142:"http://www.lemondeinformatique.fr/actualites/lire-recap-it-8-tendances-technologiques-deloitte-salesforce-en-panne-containers-vs-vm-64816.html";s:5:"title";s:85:"Recap IT : 8 tendances technologiques Deloitte, Salesforce en panne, Containers Vs VM";s:11:"description";s:166:"
-		Les 8 tendances technologiques 2016 de Deloitte.&nbsp;En 2016, dans un contexte IT tr&egrave;s marqu&eacute; par la transformation num&eacute;rique des (...)
-		
-		";s:4:"link";s:142:"http://www.lemondeinformatique.fr/actualites/lire-recap-it-8-tendances-technologiques-deloitte-salesforce-en-panne-containers-vs-vm-64816.html";s:2:"dc";a:3:{s:4:"date";s:25:"2016-05-13T18:07:13+01:00";s:8:"language";s:2:"fr";s:7:"creator";s:19:"Dominique Filippone";}s:7:"summary";s:166:"
-		Les 8 tendances technologiques 2016 de Deloitte.&nbsp;En 2016, dans un contexte IT tr&egrave;s marqu&eacute; par la transformation num&eacute;rique des (...)
-		
-		";}i:14;a:6:{s:5:"about";s:126:"http://www.lemondeinformatique.fr/actualites/lire-arioneo-leve-1-1-meteuro-dans-les-capteurs-connectes-pour-chevaux-64812.html";s:5:"title";s:67:"Arioneo lève 1,1 M&euro; dans les capteurs connectés pour chevaux";s:11:"description";s:174:"
-		Arioneo, une start-up fran&ccedil;aise sp&eacute;cialis&eacute;e dans la conception d&rsquo;objets connect&eacute;s d&eacute;di&eacute;s au monde &eacute;quin, (...)
-		
-		";s:4:"link";s:126:"http://www.lemondeinformatique.fr/actualites/lire-arioneo-leve-1-1-meteuro-dans-les-capteurs-connectes-pour-chevaux-64812.html";s:2:"dc";a:3:{s:4:"date";s:25:"2016-05-13T14:50:34+01:00";s:8:"language";s:2:"fr";s:7:"creator";s:17:"Véronique Arène";}s:7:"summary";s:174:"
-		Arioneo, une start-up fran&ccedil;aise sp&eacute;cialis&eacute;e dans la conception d&rsquo;objets connect&eacute;s d&eacute;di&eacute;s au monde &eacute;quin, (...)
-		
-		";}i:15;a:6:{s:5:"about";s:147:"http://www.lemondeinformatique.fr/actualites/lire-pour-attirer-les-developpeurs-google-livre-en-open-source-son-outil-de-langage-naturel-64813.html";s:5:"title";s:88:"Pour attirer les développeurs, Google livre en open source son outil de langage naturel";s:11:"description";s:167:"
-		Google offre aux d&eacute;veloppeurs une nouvelle m&eacute;thode pour cr&eacute;er des applications qui comprennent le langage humain. Dans la plus pure (...)
-		
-		";s:4:"link";s:147:"http://www.lemondeinformatique.fr/actualites/lire-pour-attirer-les-developpeurs-google-livre-en-open-source-son-outil-de-langage-naturel-64813.html";s:2:"dc";a:2:{s:4:"date";s:25:"2016-05-13T14:30:06+01:00";s:8:"language";s:2:"fr";}s:7:"summary";s:167:"
-		Google offre aux d&eacute;veloppeurs une nouvelle m&eacute;thode pour cr&eacute;er des applications qui comprennent le langage humain. Dans la plus pure (...)
-		
-		";}i:16;a:6:{s:5:"about";s:106:"http://www.lemondeinformatique.fr/actualites/lire-microsoft-passe-gigjam-en-beta-ouverte-a-tous-64811.html";s:5:"title";s:47:"Microsoft passe GigJam en bêta ouverte à tous";s:11:"description";s:170:"
-		Hier, la firme de Redmond a annonc&eacute; que son dernier service de productivit&eacute; GigJam, actuellement en b&ecirc;ta priv&eacute;e sur invitations, (...)
-		
-		";s:4:"link";s:106:"http://www.lemondeinformatique.fr/actualites/lire-microsoft-passe-gigjam-en-beta-ouverte-a-tous-64811.html";s:2:"dc";a:3:{s:4:"date";s:25:"2016-05-13T14:12:35+01:00";s:8:"language";s:2:"fr";s:7:"creator";s:22:"Jean Elyan avec IDG NS";}s:7:"summary";s:170:"
-		Hier, la firme de Redmond a annonc&eacute; que son dernier service de productivit&eacute; GigJam, actuellement en b&ecirc;ta priv&eacute;e sur invitations, (...)
-		
-		";}i:17;a:6:{s:5:"about";s:134:"http://www.lemondeinformatique.fr/actualites/lire-webforce-3-leve-1-2-meteuro-pour-former-1-500-developpeurs-d-ici-fin-2017-64810.html";s:5:"title";s:75:"WebForce 3 lève 1,2 M&euro; pour former 1 500 développeurs d'ici fin 2017";s:11:"description";s:175:"
-		WebForce 3, un r&eacute;seau d&rsquo;&eacute;coles proposant des formations intensives aux m&eacute;tiers du d&eacute;veloppement &nbsp;informatique &nbsp;vient (...)
-		
-		";s:4:"link";s:134:"http://www.lemondeinformatique.fr/actualites/lire-webforce-3-leve-1-2-meteuro-pour-former-1-500-developpeurs-d-ici-fin-2017-64810.html";s:2:"dc";a:3:{s:4:"date";s:25:"2016-05-13T13:58:48+01:00";s:8:"language";s:2:"fr";s:7:"creator";s:17:"Véronique Arène";}s:7:"summary";s:175:"
-		WebForce 3, un r&eacute;seau d&rsquo;&eacute;coles proposant des formations intensives aux m&eacute;tiers du d&eacute;veloppement &nbsp;informatique &nbsp;vient (...)
-		
-		";}i:18;a:6:{s:5:"about";s:115:"http://www.lemondeinformatique.fr/actualites/lire-l-editeur-francais-sylob-rachete-par-le-texan-forterro-64801.html";s:5:"title";s:57:"L'éditeur français Sylob racheté par le texan Forterro";s:11:"description";s:171:"
-		Apr&egrave;s Cegid, qui va passer entre les mains d&rsquo;investisseurs anglo-saxons, un autre &eacute;diteur fran&ccedil;ais de logiciels ERP va &ecirc;tre (...)
-		
-		";s:4:"link";s:115:"http://www.lemondeinformatique.fr/actualites/lire-l-editeur-francais-sylob-rachete-par-le-texan-forterro-64801.html";s:2:"dc";a:3:{s:4:"date";s:25:"2016-05-13T10:50:17+01:00";s:8:"language";s:2:"fr";s:7:"creator";s:11:"Maryse Gros";}s:7:"summary";s:171:"
-		Apr&egrave;s Cegid, qui va passer entre les mains d&rsquo;investisseurs anglo-saxons, un autre &eacute;diteur fran&ccedil;ais de logiciels ERP va &ecirc;tre (...)
-		
-		";}i:19;a:6:{s:5:"about";s:126:"http://www.lemondeinformatique.fr/actualites/lire-le-marche-de-la-virtualisation-de-serveurs-entame-sa-decroissance-64808.html";s:5:"title";s:67:"Le marché de la virtualisation de serveurs entame sa décroissance";s:11:"description";s:178:"
-		D'apr&egrave;s Gartner, le march&eacute; de la virtualisation des serveurs X86 devrait conna&icirc;tre une croissance de +5,7% cette ann&eacute;e et d&eacute;gager (...)
-		
-		";s:4:"link";s:126:"http://www.lemondeinformatique.fr/actualites/lire-le-marche-de-la-virtualisation-de-serveurs-entame-sa-decroissance-64808.html";s:2:"dc";a:3:{s:4:"date";s:25:"2016-05-13T10:39:51+01:00";s:8:"language";s:2:"fr";s:7:"creator";s:14:"Fabrice Alessi";}s:7:"summary";s:178:"
-		D'apr&egrave;s Gartner, le march&eacute; de la virtualisation des serveurs X86 devrait conna&icirc;tre une croissance de +5,7% cette ann&eacute;e et d&eacute;gager (...)
 		
 		";}}s:7:"channel";a:6:{s:5:"title";s:20:"Actualités logiciel";s:11:"description";s:141:"Actualités logiciel parues sur LeMondeInformatique.fr, le site d'actualité et d'information économique du monde informatique professionnel";s:4:"link";s:59:"http://www.lemondeinformatique.fr/flux-rss/logiciel/rss.xml";s:5:"items";s:5:"
 		
