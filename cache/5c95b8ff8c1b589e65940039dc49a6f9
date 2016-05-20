@@ -1,0 +1,145 @@
+O:9:"MagpieRSS":21:{s:6:"parser";i:0;s:12:"current_item";a:0:{}s:5:"items";a:20:{i:0;a:6:{s:5:"about";s:158:"http://www.lemondeinformatique.fr/actualites/lire-recap-it-reportage-cisco-live-2016-pawn-storm-empoisonne-linux-warm-up-mobile-world-congress-2016-63980.html";s:5:"title";s:101:"Recap IT : Reportage Cisco Live 2016, Pawn Storm empoisonne Linux, Warm-up Mobile World Congress 2016";s:11:"description";s:174:"
+		Pawn Storm, force tranquille de l'infection des syst&egrave;mes Linux.&nbsp;Le groupe de cyberpirates russe Pawn Storm poursuit l'infection des syst&egrave;mes (...)
+		
+		";s:4:"link";s:158:"http://www.lemondeinformatique.fr/actualites/lire-recap-it-reportage-cisco-live-2016-pawn-storm-empoisonne-linux-warm-up-mobile-world-congress-2016-63980.html";s:2:"dc";a:3:{s:4:"date";s:25:"2016-02-19T18:09:43+01:00";s:8:"language";s:2:"fr";s:7:"creator";s:19:"Dominique Filippone";}s:7:"summary";s:174:"
+		Pawn Storm, force tranquille de l'infection des syst&egrave;mes Linux.&nbsp;Le groupe de cyberpirates russe Pawn Storm poursuit l'infection des syst&egrave;mes (...)
+		
+		";}i:1;a:6:{s:5:"about";s:169:"http://www.lemondeinformatique.fr/actualites/lire-etat-d-urgence -le-conseil-constitutionnel-interdit-la-saisie-de-donnees-informatiques-lors-de-perquisitions-63979.html";s:5:"title";s:109:"État d'urgence : le Conseil Constitutionnel interdit la saisie de données informatiques lors de perquisitions";s:11:"description";s:168:"
+		Dans une d&eacute;cision rendue publique aujourd&rsquo;hui, le Conseil constitutionnel (voir la vid&eacute;o de la s&eacute;ance) estime que la copie des (...)
+		
+		";s:4:"link";s:169:"http://www.lemondeinformatique.fr/actualites/lire-etat-d-urgence -le-conseil-constitutionnel-interdit-la-saisie-de-donnees-informatiques-lors-de-perquisitions-63979.html";s:2:"dc";a:3:{s:4:"date";s:25:"2016-02-19T15:58:40+01:00";s:8:"language";s:2:"fr";s:7:"creator";s:12:"Serge Leblal";}s:7:"summary";s:168:"
+		Dans une d&eacute;cision rendue publique aujourd&rsquo;hui, le Conseil constitutionnel (voir la vid&eacute;o de la s&eacute;ance) estime que la copie des (...)
+		
+		";}i:2;a:6:{s:5:"about";s:110:"http://www.lemondeinformatique.fr/actualites/lire-apple-corrige-l-erreur-53-affectant-ses-terminaux-63971.html";s:5:"title";s:49:"Apple corrige l'erreur 53 affectant ses terminaux";s:11:"description";s:178:"
+		Apple a mis &agrave; jour son syst&egrave;me d'exploitation mobile avec une version 9.2.1 permettant de corriger la fameuse - mais non moins aga&ccedil;ante&nbsp;- (...)
+		
+		";s:4:"link";s:110:"http://www.lemondeinformatique.fr/actualites/lire-apple-corrige-l-erreur-53-affectant-ses-terminaux-63971.html";s:2:"dc";a:3:{s:4:"date";s:25:"2016-02-19T11:24:53+01:00";s:8:"language";s:2:"fr";s:7:"creator";s:64:"Gregg Keizer / IDG News Service (adapté par Dominique Filippone)";}s:7:"summary";s:178:"
+		Apple a mis &agrave; jour son syst&egrave;me d'exploitation mobile avec une version 9.2.1 permettant de corriger la fameuse - mais non moins aga&ccedil;ante&nbsp;- (...)
+		
+		";}i:3;a:6:{s:5:"about";s:130:"http://www.lemondeinformatique.fr/actualites/lire-un-bug-expose-les-donnees-personnelles-de-10-000-utilisateurs-twitter-63972.html";s:5:"title";s:69:"Un bug expose les données personnelles de 10 000 utilisateurs Twitter";s:11:"description";s:171:"
+		10 000 utilisateurs du service de microblogging Twitter ont &eacute;t&eacute; avertis que leurs adresses e-mail et num&eacute;ros de t&eacute;l&eacute;phone (...)
+		
+		";s:4:"link";s:130:"http://www.lemondeinformatique.fr/actualites/lire-un-bug-expose-les-donnees-personnelles-de-10-000-utilisateurs-twitter-63972.html";s:2:"dc";a:3:{s:4:"date";s:25:"2016-02-19T11:02:20+01:00";s:8:"language";s:2:"fr";s:7:"creator";s:12:"Serge Leblal";}s:7:"summary";s:171:"
+		10 000 utilisateurs du service de microblogging Twitter ont &eacute;t&eacute; avertis que leurs adresses e-mail et num&eacute;ros de t&eacute;l&eacute;phone (...)
+		
+		";}i:4;a:6:{s:5:"about";s:119:"http://www.lemondeinformatique.fr/actualites/lire-un-hopital-paie-17000$-pour-recuperer-ses-fichiers-cryptes-63961.html";s:5:"title";s:58:"Un hôpital paie 17000$ pour récupérer ses fichiers cryptés";s:11:"description";s:166:"
+		Dans le communiqu&eacute; publi&eacute; hier par le Hollywood Presbyterian Medical Center, l&rsquo;h&ocirc;pital d&eacute;clare que ses syst&egrave;mes (...)
+		
+		";s:4:"link";s:119:"http://www.lemondeinformatique.fr/actualites/lire-un-hopital-paie-17000$-pour-recuperer-ses-fichiers-cryptes-63961.html";s:2:"dc";a:3:{s:4:"date";s:25:"2016-02-18T13:43:50+01:00";s:8:"language";s:2:"fr";s:7:"creator";s:54:"Jeremy Kirk / IDG News Service (adapté par Jean Elyan)";}s:7:"summary";s:166:"
+		Dans le communiqu&eacute; publi&eacute; hier par le Hollywood Presbyterian Medical Center, l&rsquo;h&ocirc;pital d&eacute;clare que ses syst&egrave;mes (...)
+		
+		";}i:5;a:6:{s:5:"about";s:104:"http://www.lemondeinformatique.fr/actualites/lire-annuels-wallix-2015-cap-sur-l-international-63957.html";s:5:"title";s:45:"Annuels Wallix 2015 : Cap sur l'international";s:11:"description";s:166:"
+		Wallix a le vent en poupe. Lors de l'exercice 2015, l'&eacute;diteur a d&eacute;gag&eacute; un chiffre d'affaires de 5,2 M&euro;, en croissance de 33 % (...)
+		
+		";s:4:"link";s:104:"http://www.lemondeinformatique.fr/actualites/lire-annuels-wallix-2015-cap-sur-l-international-63957.html";s:2:"dc";a:3:{s:4:"date";s:25:"2016-02-18T10:45:55+01:00";s:8:"language";s:2:"fr";s:7:"creator";s:13:"Arnaud Pessey";}s:7:"summary";s:166:"
+		Wallix a le vent en poupe. Lors de l'exercice 2015, l'&eacute;diteur a d&eacute;gag&eacute; un chiffre d'affaires de 5,2 M&euro;, en croissance de 33 % (...)
+		
+		";}i:6;a:6:{s:5:"about";s:114:"http://www.lemondeinformatique.fr/actualites/lire-instagram-prepare-une-authentification-double-facteur-63953.html";s:5:"title";s:53:"Instagram prépare une authentification double facteur";s:11:"description";s:186:"
+		Instagram teste l&rsquo;authentification &agrave; double facteur avec certains de ses utilisateurs et pr&eacute;voit maintenant de d&eacute;ployer la fonctionnalit&eacute; (...)
+		
+		";s:4:"link";s:114:"http://www.lemondeinformatique.fr/actualites/lire-instagram-prepare-une-authentification-double-facteur-63953.html";s:2:"dc";a:3:{s:4:"date";s:25:"2016-02-17T18:10:30+01:00";s:8:"language";s:2:"fr";s:7:"creator";s:56:"Jared Newman / IDG News Service (adapté par Maryse Gros)";}s:7:"summary";s:186:"
+		Instagram teste l&rsquo;authentification &agrave; double facteur avec certains de ses utilisateurs et pr&eacute;voit maintenant de d&eacute;ployer la fonctionnalit&eacute; (...)
+		
+		";}i:7;a:6:{s:5:"about";s:114:"http://www.lemondeinformatique.fr/actualites/lire-apple-refuse-d-aider-la-justice-a-debloquer-un-iphone-63950.html";s:5:"title";s:53:"Apple refuse d'aider la justice à débloquer un iPhone";s:11:"description";s:166:"
+		Une juge f&eacute;d&eacute;rale de Californie vient de demander &agrave; Apple d&rsquo;apporter son assistance au FBI pour faire des recherches dans un (...)
+		
+		";s:4:"link";s:114:"http://www.lemondeinformatique.fr/actualites/lire-apple-refuse-d-aider-la-justice-a-debloquer-un-iphone-63950.html";s:2:"dc";a:3:{s:4:"date";s:25:"2016-02-17T17:34:31+01:00";s:8:"language";s:2:"fr";s:7:"creator";s:33:"Maryse Gros avec IDG News Service";}s:7:"summary";s:166:"
+		Une juge f&eacute;d&eacute;rale de Californie vient de demander &agrave; Apple d&rsquo;apporter son assistance au FBI pour faire des recherches dans un (...)
+		
+		";}i:8;a:6:{s:5:"about";s:125:"http://www.lemondeinformatique.fr/actualites/lire-le-ransomware-locky-propage-par-des-macros-word-fait-des-ravages-63952.html";s:5:"title";s:64:"Le ransomware Locky propagé par des macros Word fait des ravages";s:11:"description";s:170:"
+		Un nouveau type de ransomware utilisant les m&ecirc;mes modalit&eacute;s d'attaque que le fameux malware bancaire Dridex, fait des ravages sur les machines (...)
+		
+		";s:4:"link";s:125:"http://www.lemondeinformatique.fr/actualites/lire-le-ransomware-locky-propage-par-des-macros-word-fait-des-ravages-63952.html";s:2:"dc";a:3:{s:4:"date";s:25:"2016-02-17T17:19:12+01:00";s:8:"language";s:2:"fr";s:7:"creator";s:54:"Jeremy Kirk / IDG News Service (adapté par Jean Elyan)";}s:7:"summary";s:170:"
+		Un nouveau type de ransomware utilisant les m&ecirc;mes modalit&eacute;s d'attaque que le fameux malware bancaire Dridex, fait des ravages sur les machines (...)
+		
+		";}i:9;a:6:{s:5:"about";s:116:"http://www.lemondeinformatique.fr/actualites/lire-ibm-ouvre-un-service-pour-tester-blockchain-sur-bluemix-63947.html";s:5:"title";s:55:"IBM ouvre un service pour tester Blockchain sur Bluemix";s:11:"description";s:165:"
+		Il y a quelques mois, IBM a annonc&eacute; avec la Fondation Linux et plusieurs acteurs de la finance son intention de s&rsquo;impliquer fortement sur (...)
+		
+		";s:4:"link";s:116:"http://www.lemondeinformatique.fr/actualites/lire-ibm-ouvre-un-service-pour-tester-blockchain-sur-bluemix-63947.html";s:2:"dc";a:3:{s:4:"date";s:25:"2016-02-17T14:14:30+01:00";s:8:"language";s:2:"fr";s:7:"creator";s:33:"Maryse Gros avec IDG News Service";}s:7:"summary";s:165:"
+		Il y a quelques mois, IBM a annonc&eacute; avec la Fondation Linux et plusieurs acteurs de la finance son intention de s&rsquo;impliquer fortement sur (...)
+		
+		";}i:10;a:6:{s:5:"about";s:118:"http://www.lemondeinformatique.fr/actualites/lire-xen-oublie-des-correctifs-dans-ses-dernieres-mises-a-jour-63937.html";s:5:"title";s:57:"Xen oublie des correctifs dans ses dernières mises à jour";s:11:"description";s:167:"
+		Xen Project n'a manifestement pas eu les yeux en face des trous lorsqu'il a lanc&eacute; les derni&egrave;res versions de son hyperviseur. On apprend en (...)
+		
+		";s:4:"link";s:118:"http://www.lemondeinformatique.fr/actualites/lire-xen-oublie-des-correctifs-dans-ses-dernieres-mises-a-jour-63937.html";s:2:"dc";a:3:{s:4:"date";s:25:"2016-02-16T18:04:38+01:00";s:8:"language";s:2:"fr";s:7:"creator";s:69:"Lucian Constantin / IDG News Service (adapté par Dominique Filippone)";}s:7:"summary";s:167:"
+		Xen Project n'a manifestement pas eu les yeux en face des trous lorsqu'il a lanc&eacute; les derni&egrave;res versions de son hyperviseur. On apprend en (...)
+		
+		";}i:11;a:6:{s:5:"about";s:115:"http://www.lemondeinformatique.fr/actualites/lire-ibm-taille-son-mainframe-z13s-pour-les-clouds-hybrides-63935.html";s:5:"title";s:54:"IBM taille son mainframe z13s pour les clouds hybrides";s:11:"description";s:169:"
+		IBM, qui a vendu son activit&eacute; serveur x86 &agrave; Lenovo, continue &agrave; proposer de nouvelles versions de son mainframe en le dotant notamment (...)
+		
+		";s:4:"link";s:115:"http://www.lemondeinformatique.fr/actualites/lire-ibm-taille-son-mainframe-z13s-pour-les-clouds-hybrides-63935.html";s:2:"dc";a:3:{s:4:"date";s:25:"2016-02-16T14:56:36+01:00";s:8:"language";s:2:"fr";s:7:"creator";s:55:"John Ribeiro / IDG News Service (adapté par Jean Elyan)";}s:7:"summary";s:169:"
+		IBM, qui a vendu son activit&eacute; serveur x86 &agrave; Lenovo, continue &agrave; proposer de nouvelles versions de son mainframe en le dotant notamment (...)
+		
+		";}i:12;a:6:{s:5:"about";s:116:"http://www.lemondeinformatique.fr/actualites/lire-le-crm-chouchou-des-services-cloud-pour-les-entreprises-63931.html";s:5:"title";s:56:"Le CRM, chouchou des services cloud pour les entreprises";s:11:"description";s:165:"
+		En moyenne, une DSI recevrait chaque mois plus de dix demandes de connexion de son entreprise &agrave; un service externalis&eacute; en mode cloud. Le (...)
+		
+		";s:4:"link";s:116:"http://www.lemondeinformatique.fr/actualites/lire-le-crm-chouchou-des-services-cloud-pour-les-entreprises-63931.html";s:2:"dc";a:3:{s:4:"date";s:25:"2016-02-16T10:44:34+01:00";s:8:"language";s:2:"fr";s:7:"creator";s:13:"Franck Salien";}s:7:"summary";s:165:"
+		En moyenne, une DSI recevrait chaque mois plus de dix demandes de connexion de son entreprise &agrave; un service externalis&eacute; en mode cloud. Le (...)
+		
+		";}i:13;a:6:{s:5:"about";s:109:"http://www.lemondeinformatique.fr/actualites/lire-comprendre-la-securite-informatique-en-260-pages-63930.html";s:5:"title";s:48:"Comprendre la sécurité informatique en 260 pages";s:11:"description";s:169:"
+		Comment expliquer simplement les principales menaces s'attaquant aux syst&egrave;mes d'information&nbsp;? Tout sur la s&eacute;curit&eacute; informatique, (...)
+		
+		";s:4:"link";s:109:"http://www.lemondeinformatique.fr/actualites/lire-comprendre-la-securite-informatique-en-260-pages-63930.html";s:2:"dc";a:3:{s:4:"date";s:25:"2016-02-16T10:33:11+01:00";s:8:"language";s:2:"fr";s:7:"creator";s:16:"Laurent Mavallet";}s:7:"summary";s:169:"
+		Comment expliquer simplement les principales menaces s'attaquant aux syst&egrave;mes d'information&nbsp;? Tout sur la s&eacute;curit&eacute; informatique, (...)
+		
+		";}i:14;a:6:{s:5:"about";s:132:"http://www.lemondeinformatique.fr/actualites/lire-magellan-consulting-nomme-dominique-pourchet-directeur-du-pole-securite-63928.html";s:5:"title";s:71:"Magellan Consulting nomme Dominique Pourchet directeur du pôle sécurité";s:11:"description";s:176:"
+		Magellan Consulting a cr&eacute;&eacute; une branche charg&eacute;e d'accompagner les directions d'entreprises dans la compr&eacute;hension et la ma&icirc;trises (...)
+		
+		";s:4:"link";s:132:"http://www.lemondeinformatique.fr/actualites/lire-magellan-consulting-nomme-dominique-pourchet-directeur-du-pole-securite-63928.html";s:2:"dc";a:3:{s:4:"date";s:25:"2016-02-16T10:16:19+01:00";s:8:"language";s:2:"fr";s:7:"creator";s:13:"Arnaud Pessey";}s:7:"summary";s:176:"
+		Magellan Consulting a cr&eacute;&eacute; une branche charg&eacute;e d'accompagner les directions d'entreprises dans la compr&eacute;hension et la ma&icirc;trises (...)
+		
+		";}i:15;a:6:{s:5:"about";s:122:"http://www.lemondeinformatique.fr/actualites/lire-pawn-storm-force-tranquille-de-l-infection-des-systemes-linux-63924.html";s:5:"title";s:62:"Pawn Storm, force tranquille de l'infection des systèmes Linux";s:11:"description";s:183:"
+		Le groupe de cyberpirates russes Pawn Storm tisse sa toile depuis pr&egrave;s d'une dizaine d'ann&eacute;es. Ciblant les gouvernements, forces de s&eacute;curit&eacute; (...)
+		
+		";s:4:"link";s:122:"http://www.lemondeinformatique.fr/actualites/lire-pawn-storm-force-tranquille-de-l-infection-des-systemes-linux-63924.html";s:2:"dc";a:3:{s:4:"date";s:25:"2016-02-15T17:55:01+01:00";s:8:"language";s:2:"fr";s:7:"creator";s:69:"Lucian Constantin / IDG News Service (adapté par Dominique Filippone)";}s:7:"summary";s:183:"
+		Le groupe de cyberpirates russes Pawn Storm tisse sa toile depuis pr&egrave;s d'une dizaine d'ann&eacute;es. Ciblant les gouvernements, forces de s&eacute;curit&eacute; (...)
+		
+		";}i:16;a:6:{s:5:"about";s:140:"http://www.lemondeinformatique.fr/actualites/lire-le-nasdaq-va-utiliser-un-blockchain-pour-enregistrer-les-votes-des-actionnaires-63922.html";s:5:"title";s:79:"Le Nasdaq va utiliser un blockchain pour enregistrer les votes des actionnaires";s:11:"description";s:179:"
+		Dans le courant de l&rsquo;ann&eacute;e, le Nasdaq va instaurer l&rsquo;enregistrement des votes &eacute;lectroniques des actionnaires sur son propre syst&egrave;me (...)
+		
+		";s:4:"link";s:140:"http://www.lemondeinformatique.fr/actualites/lire-le-nasdaq-va-utiliser-un-blockchain-pour-enregistrer-les-votes-des-actionnaires-63922.html";s:2:"dc";a:3:{s:4:"date";s:25:"2016-02-15T14:32:09+01:00";s:8:"language";s:2:"fr";s:7:"creator";s:43:"Peter Sayer (IDG NS), adaptation Jean Elyan";}s:7:"summary";s:179:"
+		Dans le courant de l&rsquo;ann&eacute;e, le Nasdaq va instaurer l&rsquo;enregistrement des votes &eacute;lectroniques des actionnaires sur son propre syst&egrave;me (...)
+		
+		";}i:17;a:6:{s:5:"about";s:114:"http://www.lemondeinformatique.fr/actualites/lire-un-faux-correctif-menace-les-sites-e-commerce-magento-63918.html";s:5:"title";s:53:"Un faux correctif menace les sites e-commerce Magento";s:11:"description";s:167:"
+		Un an apr&egrave;s la livraison par Magento d&rsquo;un correctif intervenant sur une faille critique de sa solution de commerce &eacute;lectronique, des (...)
+		
+		";s:4:"link";s:114:"http://www.lemondeinformatique.fr/actualites/lire-un-faux-correctif-menace-les-sites-e-commerce-magento-63918.html";s:2:"dc";a:3:{s:4:"date";s:25:"2016-02-15T11:51:46+01:00";s:8:"language";s:2:"fr";s:7:"creator";s:55:"Jeremy Kirk / IDG News Service (adapté par Maryse Gros)";}s:7:"summary";s:167:"
+		Un an apr&egrave;s la livraison par Magento d&rsquo;un correctif intervenant sur une faille critique de sa solution de commerce &eacute;lectronique, des (...)
+		
+		";}i:18;a:6:{s:5:"about";s:174:"http://www.lemondeinformatique.fr/actualites/lire-recap-it-piratage-massif-au-fbi-barometre-2015-salaires-developpeurs-feu-vert-attendu-pour-les-voitures-autonomes-63910.html";s:5:"title";s:117:"Recap IT : Piratage massif au FBI, Baromètre 2015 salaires développeurs, Feu vert attendu pour les voitures autonomes";s:11:"description";s:165:"
+		Les donn&eacute;es priv&eacute;es de 22 175 employ&eacute;s du FBI pirat&eacute;es.&nbsp;Un hacker est parvenu &agrave; s'introduire sur l'intranet du (...)
+		
+		";s:4:"link";s:174:"http://www.lemondeinformatique.fr/actualites/lire-recap-it-piratage-massif-au-fbi-barometre-2015-salaires-developpeurs-feu-vert-attendu-pour-les-voitures-autonomes-63910.html";s:2:"dc";a:3:{s:4:"date";s:25:"2016-02-12T17:47:22+01:00";s:8:"language";s:2:"fr";s:7:"creator";s:19:"Dominique Filippone";}s:7:"summary";s:165:"
+		Les donn&eacute;es priv&eacute;es de 22 175 employ&eacute;s du FBI pirat&eacute;es.&nbsp;Un hacker est parvenu &agrave; s'introduire sur l'intranet du (...)
+		
+		";}i:19;a:6:{s:5:"about";s:104:"http://www.lemondeinformatique.fr/actualites/lire-skyhigh-networks-veut-encadrer-le-shadow-it-63908.html";s:5:"title";s:43:"Skyhigh Networks veut encadrer le shadow IT";s:11:"description";s:170:"
+		Apr&egrave;s Palo Alto Networks et Simplivity, Joel Mollo a pris la direction Europe du Sud &nbsp;de la start-up Skyhigh Networks, &agrave; l&rsquo;origine (...)
+		
+		";s:4:"link";s:104:"http://www.lemondeinformatique.fr/actualites/lire-skyhigh-networks-veut-encadrer-le-shadow-it-63908.html";s:2:"dc";a:3:{s:4:"date";s:25:"2016-02-12T16:40:26+01:00";s:8:"language";s:2:"fr";s:7:"creator";s:12:"Serge Leblal";}s:7:"summary";s:170:"
+		Apr&egrave;s Palo Alto Networks et Simplivity, Joel Mollo a pris la direction Europe du Sud &nbsp;de la start-up Skyhigh Networks, &agrave; l&rsquo;origine (...)
+		
+		";}}s:7:"channel";a:6:{s:5:"title";s:19:"Actualités securite";s:11:"description";s:138:"Actualités securite parues sur LeMondeInformatique.fr, le site d'actualité et d'information économique du monde informatique professionnel";s:4:"link";s:59:"http://www.lemondeinformatique.fr/flux-rss/securite/rss.xml";s:5:"items";s:5:"
+		
+	";s:9:"items_seq";s:25:"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		";s:7:"tagline";s:138:"Actualités securite parues sur LeMondeInformatique.fr, le site d'actualité et d'information économique du monde informatique professionnel";}s:9:"textinput";a:0:{}s:5:"image";a:0:{}s:9:"feed_type";s:3:"RSS";s:12:"feed_version";s:3:"1.0";s:8:"encoding";s:10:"ISO-8859-1";s:16:"_source_encoding";s:0:"";s:5:"ERROR";s:0:"";s:7:"WARNING";s:0:"";s:19:"_CONTENT_CONSTRUCTS";a:6:{i:0;s:7:"content";i:1;s:7:"summary";i:2;s:4:"info";i:3;s:5:"title";i:4;s:7:"tagline";i:5;s:9:"copyright";}s:16:"_KNOWN_ENCODINGS";a:3:{i:0;s:5:"UTF-8";i:1;s:8:"US-ASCII";i:2;s:10:"ISO-8859-1";}s:5:"stack";a:0:{}s:9:"inchannel";b:0;s:6:"initem";b:0;s:9:"incontent";b:0;s:11:"intextinput";b:0;s:7:"inimage";b:0;s:17:"current_namespace";b:0;}

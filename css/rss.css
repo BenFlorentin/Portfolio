@@ -1,0 +1,51 @@
+.container-rss{
+	border-radius: 10px;
+	text-align: left;
+	overflow: auto;
+	margin: 0;
+	padding: 0;
+	height: 400px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	border: 1px solid #CCCCCC;
+}
+.rss-container-title{
+	margin: 0px;
+	padding: 5px 5px 5px 5px;
+	color: #FFFFFF;
+	background-color: #404040;
+	background-image: none;
+
+}
+.rss-title{
+	margin: 0;
+	padding: 0;
+	font-weight: bold;
+	word-wrap: break-word;
+}
+.rss-header{
+	margin: 0px;
+	padding: 5px 5px 5px 5px;
+	color: #FFFFFF;
+	background-color: #404040;
+	background-image: none;
+}
+.rss-text {
+	padding: 5px 0px 0px 0px;
+	background-color: #f05f40;
+	background-image: none;
+}
+.rss-text a:hover {
+	color: blue;
+	text-decoration: underline;
+}
+.rss-text a {
+	color: black;
+	text-decoration: underline;
+}
+.feed-item{
+	margin: 0 0 7px 0;
+	padding: 0 0 7px 0;
+	border-bottom: 1px dashed #CCCCCC;
+	clear: both;
+}

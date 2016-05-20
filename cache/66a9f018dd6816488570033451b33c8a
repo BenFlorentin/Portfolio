@@ -1,0 +1,145 @@
+O:9:"MagpieRSS":21:{s:6:"parser";i:0;s:12:"current_item";a:0:{}s:5:"items";a:20:{i:0;a:6:{s:5:"about";s:122:"http://www.lemondeinformatique.fr/actualites/lire-slack-debauche-le-vice-president-de-l-ingenierie-de-pinterest-64842.html";s:5:"title";s:64:"Slack débauche le vice-président de l'ingénierie de Pinterest";s:11:"description";s:174:"
+		Michael Lopp a abandonn&eacute; le site de partage de photos Pinterest pour devenir vice-pr&eacute;sident de l&rsquo;ing&eacute;nierie de Slack, &eacute;diteur (...)
+		
+		";s:4:"link";s:122:"http://www.lemondeinformatique.fr/actualites/lire-slack-debauche-le-vice-president-de-l-ingenierie-de-pinterest-64842.html";s:2:"dc";a:3:{s:4:"date";s:25:"2016-05-17T13:54:38+01:00";s:8:"language";s:2:"fr";s:7:"creator";s:17:"Véronique Arène";}s:7:"summary";s:174:"
+		Michael Lopp a abandonn&eacute; le site de partage de photos Pinterest pour devenir vice-pr&eacute;sident de l&rsquo;ing&eacute;nierie de Slack, &eacute;diteur (...)
+		
+		";}i:1;a:6:{s:5:"about";s:121:"http://www.lemondeinformatique.fr/actualites/lire-l-europe-pourrait-infliger-une-amende-de-3-mdeteuro-a-google-64826.html";s:5:"title";s:61:"L'Europe pourrait infliger une amende de 3 Md&euro; à Google";s:11:"description";s:166:"
+		Google pourrait se voir infliger une amende record de 3 milliards d&rsquo;euros par la Commission europ&eacute;enne pour abus de position dominante sur (...)
+		
+		";s:4:"link";s:121:"http://www.lemondeinformatique.fr/actualites/lire-l-europe-pourrait-infliger-une-amende-de-3-mdeteuro-a-google-64826.html";s:2:"dc";a:3:{s:4:"date";s:25:"2016-05-16T15:19:21+01:00";s:8:"language";s:2:"fr";s:7:"creator";s:11:"Maryse Gros";}s:7:"summary";s:166:"
+		Google pourrait se voir infliger une amende record de 3 milliards d&rsquo;euros par la Commission europ&eacute;enne pour abus de position dominante sur (...)
+		
+		";}i:2;a:6:{s:5:"about";s:106:"http://www.lemondeinformatique.fr/actualites/lire-google-part-en-guerre-contre-flash-avec-html5-64824.html";s:5:"title";s:45:"Google part en guerre contre flash avec HTML5";s:11:"description";s:171:"
+		Le projet r&eacute;v&eacute;l&eacute; par Google s&rsquo;appelle &laquo;&nbsp;HTML5 par d&eacute;faut&nbsp;&raquo;. Le navigateur Chrome continuera &agrave; (...)
+		
+		";s:4:"link";s:106:"http://www.lemondeinformatique.fr/actualites/lire-google-part-en-guerre-contre-flash-avec-html5-64824.html";s:2:"dc";a:3:{s:4:"date";s:25:"2016-05-16T13:39:59+01:00";s:8:"language";s:2:"fr";s:7:"creator";s:56:"John Ribeiro / IDG News Service (adapté par Jean Elyan)";}s:7:"summary";s:171:"
+		Le projet r&eacute;v&eacute;l&eacute; par Google s&rsquo;appelle &laquo;&nbsp;HTML5 par d&eacute;faut&nbsp;&raquo;. Le navigateur Chrome continuera &agrave; (...)
+		
+		";}i:3;a:6:{s:5:"about";s:124:"http://www.lemondeinformatique.fr/actualites/lire-avec-javapolyjs-les-navigateurs-web-exploitent-java-sans-applet-64823.html";s:5:"title";s:65:"Avec JavaPoly.js, les navigateurs web exploitent Java sans applet";s:11:"description";s:168:"
+		En combinant les univers Java et JavaScript, la JavaPoly.js &eacute;tend le support de la machine virtuelle Java aux navigateurs web &agrave; travers une (...)
+		
+		";s:4:"link";s:124:"http://www.lemondeinformatique.fr/actualites/lire-avec-javapolyjs-les-navigateurs-web-exploitent-java-sans-applet-64823.html";s:2:"dc";a:3:{s:4:"date";s:25:"2016-05-16T13:29:34+01:00";s:8:"language";s:2:"fr";s:7:"creator";s:45:"Paul Krill / IDG NS (adapté par Maryse Gros)";}s:7:"summary";s:168:"
+		En combinant les univers Java et JavaScript, la JavaPoly.js &eacute;tend le support de la machine virtuelle Java aux navigateurs web &agrave; travers une (...)
+		
+		";}i:4;a:6:{s:5:"about";s:116:"http://www.lemondeinformatique.fr/actualites/lire-france-entreprise-digital-decouvrez-aujourd-hui-dividom-64821.html";s:5:"title";s:58:"France Entreprise Digital : Découvrez aujourd'hui Dividom";s:11:"description";s:171:"
+		Dividom&nbsp;: Plateforme d'investissement immobilier locatif &agrave; partir de 500&euro; et 100% en ligne&nbsp;Un projet pilot&eacute; par Bastien Montois (...)
+		
+		";s:4:"link";s:116:"http://www.lemondeinformatique.fr/actualites/lire-france-entreprise-digital-decouvrez-aujourd-hui-dividom-64821.html";s:2:"dc";a:3:{s:4:"date";s:25:"2016-05-16T11:56:59+01:00";s:8:"language";s:2:"fr";s:7:"creator";s:13:"La rédaction";}s:7:"summary";s:171:"
+		Dividom&nbsp;: Plateforme d'investissement immobilier locatif &agrave; partir de 500&euro; et 100% en ligne&nbsp;Un projet pilot&eacute; par Bastien Montois (...)
+		
+		";}i:5;a:6:{s:5:"about";s:142:"http://www.lemondeinformatique.fr/actualites/lire-recap-it-8-tendances-technologiques-deloitte-salesforce-en-panne-containers-vs-vm-64816.html";s:5:"title";s:85:"Recap IT : 8 tendances technologiques Deloitte, Salesforce en panne, Containers Vs VM";s:11:"description";s:166:"
+		Les 8 tendances technologiques 2016 de Deloitte.&nbsp;En 2016, dans un contexte IT tr&egrave;s marqu&eacute; par la transformation num&eacute;rique des (...)
+		
+		";s:4:"link";s:142:"http://www.lemondeinformatique.fr/actualites/lire-recap-it-8-tendances-technologiques-deloitte-salesforce-en-panne-containers-vs-vm-64816.html";s:2:"dc";a:3:{s:4:"date";s:25:"2016-05-13T18:07:13+01:00";s:8:"language";s:2:"fr";s:7:"creator";s:19:"Dominique Filippone";}s:7:"summary";s:166:"
+		Les 8 tendances technologiques 2016 de Deloitte.&nbsp;En 2016, dans un contexte IT tr&egrave;s marqu&eacute; par la transformation num&eacute;rique des (...)
+		
+		";}i:6;a:6:{s:5:"about";s:114:"http://www.lemondeinformatique.fr/actualites/lire-apres-la-voip-slack-passe-a-l-authentification-unique-64802.html";s:5:"title";s:56:"Après la VoIP, Slack passe à l'authentification unique";s:11:"description";s:165:"
+		Slack multiplie les initiatives pour se faire une place au soleil dans le plus d&rsquo;entreprise possibles. Cette app de communication collaborative, (...)
+		
+		";s:4:"link";s:114:"http://www.lemondeinformatique.fr/actualites/lire-apres-la-voip-slack-passe-a-l-authentification-unique-64802.html";s:2:"dc";a:3:{s:4:"date";s:25:"2016-05-13T09:06:19+01:00";s:8:"language";s:2:"fr";s:7:"creator";s:30:"Yannick Chavanne / ICT Journal";}s:7:"summary";s:165:"
+		Slack multiplie les initiatives pour se faire une place au soleil dans le plus d&rsquo;entreprise possibles. Cette app de communication collaborative, (...)
+		
+		";}i:7;a:6:{s:5:"about";s:133:"http://www.lemondeinformatique.fr/actualites/lire-jusqu-a-50 -d-autonomie-en-plus-avec-le-mode-economie-d-energie-d-opera-64797.html";s:5:"title";s:76:"Jusqu'à 50 % d'autonomie en plus avec le mode économie d'énergie d'Opera";s:11:"description";s:173:"
+		Comme pour les autres versions r&eacute;centes, la nouvelle fonction &eacute;conomie d&rsquo;&eacute;nergie est d'abord disponible dans l&rsquo;&eacute;dition (...)
+		
+		";s:4:"link";s:133:"http://www.lemondeinformatique.fr/actualites/lire-jusqu-a-50 -d-autonomie-en-plus-avec-le-mode-economie-d-energie-d-opera-64797.html";s:2:"dc";a:3:{s:4:"date";s:25:"2016-05-12T16:54:22+01:00";s:8:"language";s:2:"fr";s:7:"creator";s:22:"Jean Elyan avec IDG NS";}s:7:"summary";s:173:"
+		Comme pour les autres versions r&eacute;centes, la nouvelle fonction &eacute;conomie d&rsquo;&eacute;nergie est d'abord disponible dans l&rsquo;&eacute;dition (...)
+		
+		";}i:8;a:6:{s:5:"about";s:133:"http://www.lemondeinformatique.fr/actualites/lire-priceminister-accroit-ca-et-taux-de-conversion-grace-aux-recommandations-64777.html";s:5:"title";s:74:"Priceminister accroît CA et taux de conversion grâce aux recommandations";s:11:"description";s:175:"
+		Si les conseilleurs ne sont pas les payeurs, il n'emp&ecirc;che que leurs avis peuvent souvent &ecirc;tre pertinents. C'est exactement le cas dans le e-commerce (...)
+		
+		";s:4:"link";s:133:"http://www.lemondeinformatique.fr/actualites/lire-priceminister-accroit-ca-et-taux-de-conversion-grace-aux-recommandations-64777.html";s:2:"dc";a:3:{s:4:"date";s:25:"2016-05-12T10:58:18+01:00";s:8:"language";s:2:"fr";s:7:"creator";s:19:"Dominique Filippone";}s:7:"summary";s:175:"
+		Si les conseilleurs ne sont pas les payeurs, il n'emp&ecirc;che que leurs avis peuvent souvent &ecirc;tre pertinents. C'est exactement le cas dans le e-commerce (...)
+		
+		";}i:9;a:6:{s:5:"about";s:97:"http://www.lemondeinformatique.fr/actualites/lire-sociallymap-leve-1-2-million-d-euros-64757.html";s:5:"title";s:37:"Sociallymap lève 1,2 million d'euros";s:11:"description";s:171:"
+		Lanc&eacute;e depuis moins de deux ans, la solution Sociallymap permettant de publier de fa&ccedil;on automatis&eacute;e des contenus sur les r&eacute;seaux (...)
+		
+		";s:4:"link";s:97:"http://www.lemondeinformatique.fr/actualites/lire-sociallymap-leve-1-2-million-d-euros-64757.html";s:2:"dc";a:3:{s:4:"date";s:25:"2016-05-10T10:15:04+01:00";s:8:"language";s:2:"fr";s:7:"creator";s:19:"Dominique Filippone";}s:7:"summary";s:171:"
+		Lanc&eacute;e depuis moins de deux ans, la solution Sociallymap permettant de publier de fa&ccedil;on automatis&eacute;e des contenus sur les r&eacute;seaux (...)
+		
+		";}i:10;a:6:{s:5:"about";s:134:"http://www.lemondeinformatique.fr/actualites/lire-e-commerce -amazon-entend-lever-les-restrictions-territoriales-en-europe-64720.html";s:5:"title";s:74:"e-Commerce : Amazon entend lever les restrictions territoriales en Europe";s:11:"description";s:165:"
+		Avec son programme Pan-European Fulfillment By Amazon, Amazon.com pourrait lever les restrictions territoriales, une barri&egrave;re que la Commission (...)
+		
+		";s:4:"link";s:134:"http://www.lemondeinformatique.fr/actualites/lire-e-commerce -amazon-entend-lever-les-restrictions-territoriales-en-europe-64720.html";s:2:"dc";a:3:{s:4:"date";s:25:"2016-05-04T11:18:54+01:00";s:8:"language";s:2:"fr";s:7:"creator";s:43:"Peter Sayer (IDG NS), adaptation Jean Elyan";}s:7:"summary";s:165:"
+		Avec son programme Pan-European Fulfillment By Amazon, Amazon.com pourrait lever les restrictions territoriales, une barri&egrave;re que la Commission (...)
+		
+		";}i:11;a:6:{s:5:"about";s:126:"http://www.lemondeinformatique.fr/actualites/lire-la-plateforme-collaborative-locative-mytwinplace-leve-750-keteuro-64689.html";s:5:"title";s:66:"La plateforme collaborative locative MyTwinPlace lève 750 K&euro;";s:11:"description";s:167:"
+		La soci&eacute;t&eacute; franco-espagnole MyTwinPlace, &eacute;ditrice d&rsquo;une plate-forme d&eacute;di&eacute;e au logement collaboratif a conclu un (...)
+		
+		";s:4:"link";s:126:"http://www.lemondeinformatique.fr/actualites/lire-la-plateforme-collaborative-locative-mytwinplace-leve-750-keteuro-64689.html";s:2:"dc";a:3:{s:4:"date";s:25:"2016-05-02T14:14:26+01:00";s:8:"language";s:2:"fr";s:7:"creator";s:17:"Véronique Arène";}s:7:"summary";s:167:"
+		La soci&eacute;t&eacute; franco-espagnole MyTwinPlace, &eacute;ditrice d&rsquo;une plate-forme d&eacute;di&eacute;e au logement collaboratif a conclu un (...)
+		
+		";}i:12;a:6:{s:5:"about";s:117:"http://www.lemondeinformatique.fr/actualites/lire-les-solutions-de-paiement-mobile-avancent-sauf-en-france-64686.html";s:5:"title";s:56:"Les solutions de paiement mobile avancent sauf en France";s:11:"description";s:167:"
+		Les consommateurs adoptent de plus en plus de solutions de paiements mobiles, en passant par des wallets num&eacute;riques comme PayPal, WeChat, Alipay. (...)
+		
+		";s:4:"link";s:117:"http://www.lemondeinformatique.fr/actualites/lire-les-solutions-de-paiement-mobile-avancent-sauf-en-france-64686.html";s:2:"dc";a:3:{s:4:"date";s:25:"2016-05-02T10:04:47+01:00";s:8:"language";s:2:"fr";s:7:"creator";s:15:"Didier Barathon";}s:7:"summary";s:167:"
+		Les consommateurs adoptent de plus en plus de solutions de paiements mobiles, en passant par des wallets num&eacute;riques comme PayPal, WeChat, Alipay. (...)
+		
+		";}i:13;a:6:{s:5:"about";s:164:"http://www.lemondeinformatique.fr/actualites/lire-recap-it-votes-ouverts-france-entreprise-digital-2016-nokia-rachete-withings-cyberattaques-contre-swift-64683.html";s:5:"title";s:108:"Recap IT : Votes ouverts France Entreprise Digital 2016, Nokia rachète Withings, Cyberattaques contre Swift";s:11:"description";s:170:"
+		France Entreprise Digital 2016 : Soutenez les projets IT innovants !&nbsp;Tous les internautes ont d&eacute;sormais la possibilit&eacute; de venir soutenir (...)
+		
+		";s:4:"link";s:164:"http://www.lemondeinformatique.fr/actualites/lire-recap-it-votes-ouverts-france-entreprise-digital-2016-nokia-rachete-withings-cyberattaques-contre-swift-64683.html";s:2:"dc";a:3:{s:4:"date";s:25:"2016-04-29T17:00:21+01:00";s:8:"language";s:2:"fr";s:7:"creator";s:19:"Dominique Filippone";}s:7:"summary";s:170:"
+		France Entreprise Digital 2016 : Soutenez les projets IT innovants !&nbsp;Tous les internautes ont d&eacute;sormais la possibilit&eacute; de venir soutenir (...)
+		
+		";}i:14;a:6:{s:5:"about";s:137:"http://www.lemondeinformatique.fr/actualites/lire-l-iut-senart-fontainebleau-lance-une-formation-a-distance-en-securite-des-si-64678.html";s:5:"title";s:80:"L'IUT Sénart-Fontainebleau lance une formation à distance en sécurité des SI";s:11:"description";s:167:"
+		Port&eacute;e par l&rsquo;IUT S&eacute;nart Fontainebleau et co-accr&eacute;dit&eacute;e avec l&rsquo;Universit&eacute; Paris-Est Marne-la-Vall&eacute;e (...)
+		
+		";s:4:"link";s:137:"http://www.lemondeinformatique.fr/actualites/lire-l-iut-senart-fontainebleau-lance-une-formation-a-distance-en-securite-des-si-64678.html";s:2:"dc";a:3:{s:4:"date";s:25:"2016-04-29T14:25:29+01:00";s:8:"language";s:2:"fr";s:7:"creator";s:17:"Véronique Arène";}s:7:"summary";s:167:"
+		Port&eacute;e par l&rsquo;IUT S&eacute;nart Fontainebleau et co-accr&eacute;dit&eacute;e avec l&rsquo;Universit&eacute; Paris-Est Marne-la-Vall&eacute;e (...)
+		
+		";}i:15;a:6:{s:5:"about";s:136:"http://www.lemondeinformatique.fr/actualites/lire-les-deplacements-en-avion-de-francois-hollande-suivis-a-la-trace-sur-le-web-64677.html";s:5:"title";s:78:"Les déplacements en avion de François Hollande suivis à la trace sur le web";s:11:"description";s:168:"
+		Le pr&eacute;sident de la R&eacute;publique ne le sait peut &ecirc;tre pas, mais tous ses d&eacute;placements en avion peuvent &ecirc;tre suivis &agrave; (...)
+		
+		";s:4:"link";s:136:"http://www.lemondeinformatique.fr/actualites/lire-les-deplacements-en-avion-de-francois-hollande-suivis-a-la-trace-sur-le-web-64677.html";s:2:"dc";a:3:{s:4:"date";s:25:"2016-04-29T14:22:11+01:00";s:8:"language";s:2:"fr";s:7:"creator";s:19:"Dominique Filippone";}s:7:"summary";s:168:"
+		Le pr&eacute;sident de la R&eacute;publique ne le sait peut &ecirc;tre pas, mais tous ses d&eacute;placements en avion peuvent &ecirc;tre suivis &agrave; (...)
+		
+		";}i:16;a:6:{s:5:"about";s:116:"http://www.lemondeinformatique.fr/actualites/lire-les-e-commercants-encore-a-la-traine-dans-le-m-commerce-64669.html";s:5:"title";s:58:"Les e-commerçants encore à la traîne dans le m-commerce";s:11:"description";s:165:"
+		M&ecirc;me si le niveau de satisfaction reste raisonnable, les clients nomades sont loin de b&eacute;n&eacute;ficier des services qu'ils attendent des (...)
+		
+		";s:4:"link";s:116:"http://www.lemondeinformatique.fr/actualites/lire-les-e-commercants-encore-a-la-traine-dans-le-m-commerce-64669.html";s:2:"dc";a:3:{s:4:"date";s:25:"2016-04-29T10:02:58+01:00";s:8:"language";s:2:"fr";s:7:"creator";s:13:"Franck Salien";}s:7:"summary";s:165:"
+		M&ecirc;me si le niveau de satisfaction reste raisonnable, les clients nomades sont loin de b&eacute;n&eacute;ficier des services qu'ils attendent des (...)
+		
+		";}i:17;a:6:{s:5:"about";s:114:"http://www.lemondeinformatique.fr/actualites/lire-tripadvisor-rachete-housetrip-pour-concurrence-airbnb-64667.html";s:5:"title";s:54:"TripAdvisor rachète HouseTrip pour concurrence Airbnb";s:11:"description";s:172:"
+		G&eacute;ant mondial des avis et annonces en ligne en lien avec les voyages, TripAdvisor a mis la main sur HouseTrip. Cette plateforme web au concept initial (...)
+		
+		";s:4:"link";s:114:"http://www.lemondeinformatique.fr/actualites/lire-tripadvisor-rachete-housetrip-pour-concurrence-airbnb-64667.html";s:2:"dc";a:3:{s:4:"date";s:25:"2016-04-29T09:50:11+01:00";s:8:"language";s:2:"fr";s:7:"creator";s:30:"ICT Journal / Yannick Chavanne";}s:7:"summary";s:172:"
+		G&eacute;ant mondial des avis et annonces en ligne en lien avec les voyages, TripAdvisor a mis la main sur HouseTrip. Cette plateforme web au concept initial (...)
+		
+		";}i:18;a:6:{s:5:"about";s:107:"http://www.lemondeinformatique.fr/actualites/lire-chasse-aux-bugs-a-double-detente-dans-facebook-64618.html";s:5:"title";s:48:"Chasse aux bugs à double détente dans Facebook";s:11:"description";s:165:"
+		Au mois de f&eacute;vrier dernier, Orange Tsai, un d&eacute;veloppeur inscrit au programme de chasse aux bugs de Facebook, r&eacute;ussissait &agrave; (...)
+		
+		";s:4:"link";s:107:"http://www.lemondeinformatique.fr/actualites/lire-chasse-aux-bugs-a-double-detente-dans-facebook-64618.html";s:2:"dc";a:3:{s:4:"date";s:25:"2016-04-25T18:29:54+01:00";s:8:"language";s:2:"fr";s:7:"creator";s:61:"Lucian Constantin / IDG News Service (adapté par Jean Elyan)";}s:7:"summary";s:165:"
+		Au mois de f&eacute;vrier dernier, Orange Tsai, un d&eacute;veloppeur inscrit au programme de chasse aux bugs de Facebook, r&eacute;ussissait &agrave; (...)
+		
+		";}i:19;a:6:{s:5:"about";s:102:"http://www.lemondeinformatique.fr/actualites/lire-opera-ajoute-un-microvpn-a-son-navigateur-64585.html";s:5:"title";s:42:"Opera ajoute un microVPN à son navigateur";s:11:"description";s:167:"
+		La version d&eacute;veloppeur du navigateur Opera int&egrave;gre d&eacute;sormais un microVPN pour renforcer la s&eacute;curit&eacute; des utilisateurs, (...)
+		
+		";s:4:"link";s:102:"http://www.lemondeinformatique.fr/actualites/lire-opera-ajoute-un-microvpn-a-son-navigateur-64585.html";s:2:"dc";a:3:{s:4:"date";s:25:"2016-04-21T11:43:58+01:00";s:8:"language";s:2:"fr";s:7:"creator";s:12:"Serge Leblal";}s:7:"summary";s:167:"
+		La version d&eacute;veloppeur du navigateur Opera int&egrave;gre d&eacute;sormais un microVPN pour renforcer la s&eacute;curit&eacute; des utilisateurs, (...)
+		
+		";}}s:7:"channel";a:6:{s:5:"title";s:20:"Actualités internet";s:11:"description";s:141:"Actualités internet parues sur LeMondeInformatique.fr, le site d'actualité et d'information économique du monde informatique professionnel";s:4:"link";s:59:"http://www.lemondeinformatique.fr/flux-rss/internet/rss.xml";s:5:"items";s:5:"
+		
+	";s:9:"items_seq";s:25:"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		";s:7:"tagline";s:141:"Actualités internet parues sur LeMondeInformatique.fr, le site d'actualité et d'information économique du monde informatique professionnel";}s:9:"textinput";a:0:{}s:5:"image";a:0:{}s:9:"feed_type";s:3:"RSS";s:12:"feed_version";s:3:"1.0";s:8:"encoding";s:5:"UTF_8";s:16:"_source_encoding";s:0:"";s:5:"ERROR";s:0:"";s:7:"WARNING";s:0:"";s:19:"_CONTENT_CONSTRUCTS";a:6:{i:0;s:7:"content";i:1;s:7:"summary";i:2;s:4:"info";i:3;s:5:"title";i:4;s:7:"tagline";i:5;s:9:"copyright";}s:16:"_KNOWN_ENCODINGS";a:3:{i:0;s:5:"UTF-8";i:1;s:8:"US-ASCII";i:2;s:10:"ISO-8859-1";}s:5:"stack";a:0:{}s:9:"inchannel";b:0;s:6:"initem";b:0;s:9:"incontent";b:0;s:11:"intextinput";b:0;s:7:"inimage";b:0;s:17:"current_namespace";b:0;}

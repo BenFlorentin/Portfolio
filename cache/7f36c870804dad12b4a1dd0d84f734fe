@@ -1,0 +1,147 @@
+O:9:"MagpieRSS":21:{s:6:"parser";i:0;s:12:"current_item";a:0:{}s:5:"items";a:20:{i:0;a:6:{s:5:"about";s:131:"http://www.lemondeinformatique.fr/actualites/lire-30-des-decideurs-it-n-ont-pas-confiance-dans-la-securite-de-leurs-parc-64639.html";s:5:"title";s:71:"30% des décideurs IT n'ont pas confiance dans la sécurité de leurs parc";s:11:"description";s:174:"
+		Trois chiffres pour commencer. Quatre-vingt-dix pour cent des responsables de parcs informatiques estiment que la s&eacute;curit&eacute; des &eacute;quipements (...)
+		
+		";s:4:"link";s:131:"http://www.lemondeinformatique.fr/actualites/lire-30-des-decideurs-it-n-ont-pas-confiance-dans-la-securite-de-leurs-parc-64639.html";s:2:"dc";a:3:{s:4:"date";s:25:"2016-04-27T11:45:09+01:00";s:8:"language";s:2:"fr";s:7:"creator";s:15:"Didier Barathon";}s:7:"summary";s:174:"
+		Trois chiffres pour commencer. Quatre-vingt-dix pour cent des responsables de parcs informatiques estiment que la s&eacute;curit&eacute; des &eacute;quipements (...)
+		
+		";}i:1;a:6:{s:5:"about";s:134:"http://www.lemondeinformatique.fr/actualites/lire-anstel-ameliore-la-performance-de-son-centre-de-contacts-pour-le-batiment-64638.html";s:5:"title";s:73:"Anstel améliore la performance de son centre de contacts pour le bâtiment";s:11:"description";s:167:"
+		Anstel exerce un m&eacute;tier connu, la gestion d'un centre de contacts, mais pour une seule profession, celle du b&acirc;timent et pour des situations (...)
+		
+		";s:4:"link";s:134:"http://www.lemondeinformatique.fr/actualites/lire-anstel-ameliore-la-performance-de-son-centre-de-contacts-pour-le-batiment-64638.html";s:2:"dc";a:3:{s:4:"date";s:25:"2016-04-27T11:34:35+01:00";s:8:"language";s:2:"fr";s:7:"creator";s:15:"Didier Barathon";}s:7:"summary";s:167:"
+		Anstel exerce un m&eacute;tier connu, la gestion d'un centre de contacts, mais pour une seule profession, celle du b&acirc;timent et pour des situations (...)
+		
+		";}i:2;a:6:{s:5:"about";s:107:"http://www.lemondeinformatique.fr/actualites/lire-le-rgi-20-met-opendocument-et-ipv6-a-l-honneur-64635.html";s:5:"title";s:47:"Le RGI 2.0 met OpenDocument et IPv6 à l'honneur";s:11:"description";s:166:"
+		Suite &agrave; la parution de la deuxi&egrave;me version du R&eacute;f&eacute;rentiel G&eacute;n&eacute;ral d'Interop&eacute;rabilit&eacute; (RGI 2.0), (...)
+		
+		";s:4:"link";s:107:"http://www.lemondeinformatique.fr/actualites/lire-le-rgi-20-met-opendocument-et-ipv6-a-l-honneur-64635.html";s:2:"dc";a:3:{s:4:"date";s:25:"2016-04-27T11:04:00+01:00";s:8:"language";s:2:"fr";s:7:"creator";s:15:"Bertand Lemaire";}s:7:"summary";s:166:"
+		Suite &agrave; la parution de la deuxi&egrave;me version du R&eacute;f&eacute;rentiel G&eacute;n&eacute;ral d'Interop&eacute;rabilit&eacute; (RGI 2.0), (...)
+		
+		";}i:3;a:6:{s:5:"about";s:123:"http://www.lemondeinformatique.fr/actualites/lire-votez-pour-les-8-projets-du-defi-h-2016-a-l-assaut-du-handicap-64633.html";s:5:"title";s:63:"Votez pour les 8 projets du Défi H 2016, à l'assaut du handicap";s:11:"description";s:166:"
+		Les huit projets du D&eacute;fi H 2016&nbsp;- organis&eacute; par Sogeti France avec Le Monde Informatique - sont entr&eacute;s dans la derni&egrave;re (...)
+		
+		";s:4:"link";s:123:"http://www.lemondeinformatique.fr/actualites/lire-votez-pour-les-8-projets-du-defi-h-2016-a-l-assaut-du-handicap-64633.html";s:2:"dc";a:3:{s:4:"date";s:25:"2016-04-26T18:33:40+01:00";s:8:"language";s:2:"fr";s:7:"creator";s:11:"Maryse Gros";}s:7:"summary";s:166:"
+		Les huit projets du D&eacute;fi H 2016&nbsp;- organis&eacute; par Sogeti France avec Le Monde Informatique - sont entr&eacute;s dans la derni&egrave;re (...)
+		
+		";}i:4;a:6:{s:5:"about";s:118:"http://www.lemondeinformatique.fr/actualites/lire-en-v30-la-base-neo4j-stocke-des-graphes-de-toutes-tailles-64632.html";s:5:"title";s:60:"En v.3.0, la base Neo4j stocke des graphes de toutes tailles";s:11:"description";s:177:"
+		La base de donn&eacute;es orient&eacute;e graphe Neo4j sort dans une version 3.0 bas&eacute;e sur une architecture compl&egrave;tement revue pour am&eacute;liorer (...)
+		
+		";s:4:"link";s:118:"http://www.lemondeinformatique.fr/actualites/lire-en-v30-la-base-neo4j-stocke-des-graphes-de-toutes-tailles-64632.html";s:2:"dc";a:3:{s:4:"date";s:25:"2016-04-26T16:50:54+01:00";s:8:"language";s:2:"fr";s:7:"creator";s:11:"Maryse Gros";}s:7:"summary";s:177:"
+		La base de donn&eacute;es orient&eacute;e graphe Neo4j sort dans une version 3.0 bas&eacute;e sur une architecture compl&egrave;tement revue pour am&eacute;liorer (...)
+		
+		";}i:5;a:6:{s:5:"about";s:114:"http://www.lemondeinformatique.fr/actualites/lire-la-fondation-openstack-certifie-les-competences-cloud-64628.html";s:5:"title";s:53:"La Fondation OpenStack certifie les compétences cloud";s:11:"description";s:168:"
+		Il a &eacute;t&eacute; beaucoup question ces derniers temps de la p&eacute;nurie d&rsquo;experts en data science, mais ce n&rsquo;est pas le seul secteur (...)
+		
+		";s:4:"link";s:114:"http://www.lemondeinformatique.fr/actualites/lire-la-fondation-openstack-certifie-les-competences-cloud-64628.html";s:2:"dc";a:3:{s:4:"date";s:25:"2016-04-26T12:28:17+01:00";s:8:"language";s:2:"fr";s:7:"creator";s:48:"Katherine Noyes / IDG NS (adaptation Jean Elyan)";}s:7:"summary";s:168:"
+		Il a &eacute;t&eacute; beaucoup question ces derniers temps de la p&eacute;nurie d&rsquo;experts en data science, mais ce n&rsquo;est pas le seul secteur (...)
+		
+		";}i:6;a:6:{s:5:"about";s:106:"http://www.lemondeinformatique.fr/actualites/lire-dropbox-abandonne-a-son-tour-le-support-de-xp-64625.html";s:5:"title";s:45:"Dropbox abandonne à son tour le support de XP";s:11:"description";s:165:"
+		Apr&egrave;s Google et son navigateur Chrome il y a deux semaines, Dropbox a annonc&eacute; l&rsquo;arr&ecirc;t prochain du support de Windows XP pour (...)
+		
+		";s:4:"link";s:106:"http://www.lemondeinformatique.fr/actualites/lire-dropbox-abandonne-a-son-tour-le-support-de-xp-64625.html";s:2:"dc";a:3:{s:4:"date";s:25:"2016-04-26T10:30:08+01:00";s:8:"language";s:2:"fr";s:7:"creator";s:33:"Maryse Gros avec IDG News Service";}s:7:"summary";s:165:"
+		Apr&egrave;s Google et son navigateur Chrome il y a deux semaines, Dropbox a annonc&eacute; l&rsquo;arr&ecirc;t prochain du support de Windows XP pour (...)
+		
+		";}i:7;a:6:{s:5:"about";s:122:"http://www.lemondeinformatique.fr/actualites/lire-l-integrateur-de-divalto-variopositif-s-etend-en-region-ouest-64620.html";s:5:"title";s:61:"L'intégrateur de Divalto VarioPositif s'étend en région Ouest";s:11:"description";s:179:"
+		VarioPositif consolide sa place de principal partenaire de Divalto. Le 14 mars, l'int&eacute;grateur a rachet&eacute; l'activit&eacute; que la soci&eacute;t&eacute; (...)
+		
+		";s:4:"link";s:122:"http://www.lemondeinformatique.fr/actualites/lire-l-integrateur-de-divalto-variopositif-s-etend-en-region-ouest-64620.html";s:2:"dc";a:3:{s:4:"date";s:25:"2016-04-26T09:05:53+01:00";s:8:"language";s:2:"fr";s:7:"creator";s:14:"Fabrice Alessi";}s:7:"summary";s:179:"
+		VarioPositif consolide sa place de principal partenaire de Divalto. Le 14 mars, l'int&eacute;grateur a rachet&eacute; l'activit&eacute; que la soci&eacute;t&eacute; (...)
+		
+		";}i:8;a:6:{s:5:"about";s:95:"http://www.lemondeinformatique.fr/actualites/lire-le-cern-joue-le-jeu-de-l-open-data-64623.html";s:5:"title";s:34:"Le CERN joue le jeu de l'open data";s:11:"description";s:166:"
+		Lanc&eacute; en automne 2014, le portail de donn&eacute;es ouvertes (&laquo;Open Data Portal&raquo;) du CERN vient de rendre disponible une gigantesque (...)
+		
+		";s:4:"link";s:95:"http://www.lemondeinformatique.fr/actualites/lire-le-cern-joue-le-jeu-de-l-open-data-64623.html";s:2:"dc";a:3:{s:4:"date";s:25:"2016-04-26T08:34:49+01:00";s:8:"language";s:2:"fr";s:7:"creator";s:29:"Yannick Chavanne / ICTjournal";}s:7:"summary";s:166:"
+		Lanc&eacute; en automne 2014, le portail de donn&eacute;es ouvertes (&laquo;Open Data Portal&raquo;) du CERN vient de rendre disponible une gigantesque (...)
+		
+		";}i:9;a:6:{s:5:"about";s:128:"http://www.lemondeinformatique.fr/actualites/lire-linux-ubuntu-1604-touche-par-une-serieuse-faille-de-confidentialite-64617.html";s:5:"title";s:68:"Linux Ubuntu 16.04 touché par une sérieuse faille de confidentialité";s:11:"description";s:171:"
+		Le loup serait-il dans la bergerie ? La derni&egrave;re version LTS (Long Term Support) d'Ubuntu annonc&eacute;e fin de semaine derni&egrave;re&nbsp;utilise (...)
+		
+		";s:4:"link";s:128:"http://www.lemondeinformatique.fr/actualites/lire-linux-ubuntu-1604-touche-par-une-serieuse-faille-de-confidentialite-64617.html";s:2:"dc";a:3:{s:4:"date";s:25:"2016-04-25T17:26:10+01:00";s:8:"language";s:2:"fr";s:7:"creator";s:49:"Jon Or / IDG News Service (adapté par Jean Elyan)";}s:7:"summary";s:171:"
+		Le loup serait-il dans la bergerie ? La derni&egrave;re version LTS (Long Term Support) d'Ubuntu annonc&eacute;e fin de semaine derni&egrave;re&nbsp;utilise (...)
+		
+		";}i:10;a:6:{s:5:"about";s:99:"http://www.lemondeinformatique.fr/actualites/lire-l-epitech-fait-entrer-le-code-au-senat-64615.html";s:5:"title";s:38:"L'Epitech fait entrer le code au Sénat";s:11:"description";s:180:"
+		Le 27 avril 2016, l&rsquo;&eacute;cole d&rsquo;informatique Epitech, membre du groupe Ionis fera entrer le code au S&eacute;nat. Une &eacute;quipe d'&eacute;tudiants (...)
+		
+		";s:4:"link";s:99:"http://www.lemondeinformatique.fr/actualites/lire-l-epitech-fait-entrer-le-code-au-senat-64615.html";s:2:"dc";a:3:{s:4:"date";s:25:"2016-04-25T15:12:34+01:00";s:8:"language";s:2:"fr";s:7:"creator";s:15:"Véronique Arène";}s:7:"summary";s:180:"
+		Le 27 avril 2016, l&rsquo;&eacute;cole d&rsquo;informatique Epitech, membre du groupe Ionis fera entrer le code au S&eacute;nat. Une &eacute;quipe d'&eacute;tudiants (...)
+		
+		";}i:11;a:6:{s:5:"about";s:122:"http://www.lemondeinformatique.fr/actualites/lire-doom-prochain-defi-a-relever-pour-l-intelligence-artificielle-64612.html";s:5:"title";s:62:"Doom, prochain défi à relever pour l'intelligence artificielle";s:11:"description";s:180:"
+		L&rsquo;intelligence artificielle a peut-&ecirc;tre vaincu l&rsquo;humanit&eacute; sur le jeu de Go, mais il reste encore &agrave; la tester sur d&rsquo;innombrables (...)
+		
+		";s:4:"link";s:122:"http://www.lemondeinformatique.fr/actualites/lire-doom-prochain-defi-a-relever-pour-l-intelligence-artificielle-64612.html";s:2:"dc";a:3:{s:4:"date";s:25:"2016-04-25T11:56:01+01:00";s:8:"language";s:2:"fr";s:7:"creator";s:59:"Katherine Noyes / IDG News Service (adapté par Maryse Gros)";}s:7:"summary";s:180:"
+		L&rsquo;intelligence artificielle a peut-&ecirc;tre vaincu l&rsquo;humanit&eacute; sur le jeu de Go, mais il reste encore &agrave; la tester sur d&rsquo;innombrables (...)
+		
+		";}i:12;a:6:{s:5:"about";s:118:"http://www.lemondeinformatique.fr/actualites/lire-sas-lance-des-solutions-analytiques-big-data-en-mode-saas-64607.html";s:5:"title";s:57:"SAS lance des solutions analytiques big data en mode SaaS";s:11:"description";s:170:"
+		SAS a pr&eacute;sent&eacute; Viya, sa nouvelle architecture d&rsquo;analyse et de visualisation. Le sp&eacute;cialiste de l'analyse big data souhaite ainsi (...)
+		
+		";s:4:"link";s:118:"http://www.lemondeinformatique.fr/actualites/lire-sas-lance-des-solutions-analytiques-big-data-en-mode-saas-64607.html";s:2:"dc";a:3:{s:4:"date";s:25:"2016-04-25T10:21:29+01:00";s:8:"language";s:2:"fr";s:7:"creator";s:29:"Hélène Lelièvre / ICT Journal";}s:7:"summary";s:170:"
+		SAS a pr&eacute;sent&eacute; Viya, sa nouvelle architecture d&rsquo;analyse et de visualisation. Le sp&eacute;cialiste de l'analyse big data souhaite ainsi (...)
+		
+		";}i:13;a:6:{s:5:"about";s:127:"http://www.lemondeinformatique.fr/actualites/lire-des-cartes-4d-pour-aider-les-drones-a-eviter-les-obstacles-mobiles-64605.html";s:5:"title";s:66:"Des cartes 4D pour aider les drones à éviter les obstacles mobiles";s:11:"description";s:165:"
+		MIT&nbsp;: des cartes 4D pour aider les drones &agrave; &eacute;viter les obstacles mobiles&nbsp;
+Des chercheurs du MIT sp&eacute;cialis&eacute;s dans (...)
+		
+		";s:4:"link";s:127:"http://www.lemondeinformatique.fr/actualites/lire-des-cartes-4d-pour-aider-les-drones-a-eviter-les-obstacles-mobiles-64605.html";s:2:"dc";a:3:{s:4:"date";s:25:"2016-04-22T14:50:22+01:00";s:8:"language";s:2:"fr";s:7:"creator";s:48:"Katherine Noyes / IDG NS (adaptation Jean Elyan)";}s:7:"summary";s:165:"
+		MIT&nbsp;: des cartes 4D pour aider les drones &agrave; &eacute;viter les obstacles mobiles&nbsp;
+Des chercheurs du MIT sp&eacute;cialis&eacute;s dans (...)
+		
+		";}i:14;a:6:{s:5:"about";s:132:"http://www.lemondeinformatique.fr/actualites/lire-selon-le-ceo-de-google-le-machine-learning-dominera-la-prochaine-ere-it-64604.html";s:5:"title";s:72:"Selon le CEO de Google, le machine learning dominera la prochaine ère IT";s:11:"description";s:178:"
+		Chaque d&eacute;cennie, une nouvelle &egrave;re informatique vient influencer nos usages. Une grande partie des ann&eacute;es 90 a &eacute;t&eacute; domin&eacute;e (...)
+		
+		";s:4:"link";s:132:"http://www.lemondeinformatique.fr/actualites/lire-selon-le-ceo-de-google-le-machine-learning-dominera-la-prochaine-ere-it-64604.html";s:2:"dc";a:3:{s:4:"date";s:25:"2016-04-22T14:32:45+01:00";s:8:"language";s:2:"fr";s:7:"creator";s:57:"James Niccolai / IDG News Service (adaptation Jean Elyan)";}s:7:"summary";s:178:"
+		Chaque d&eacute;cennie, une nouvelle &egrave;re informatique vient influencer nos usages. Une grande partie des ann&eacute;es 90 a &eacute;t&eacute; domin&eacute;e (...)
+		
+		";}i:15;a:6:{s:5:"about";s:155:"http://www.lemondeinformatique.fr/actualites/lire-trimestriels-microsoft-2016 -la-faiblesse-des-ventes-de-mobiles-tire-les-resultats-vers-le-bas-64602.html";s:5:"title";s:95:"Trimestriels Microsoft 2016 : La faiblesse des ventes de mobiles tire les résultats vers le bas";s:11:"description";s:169:"
+		L'acquisition de Nokia par Microsoft se r&eacute;v&egrave;le &ecirc;tre similaire &agrave; la complainte de l&rsquo;albatros autour du cou du vieux marin. (...)
+		
+		";s:4:"link";s:155:"http://www.lemondeinformatique.fr/actualites/lire-trimestriels-microsoft-2016 -la-faiblesse-des-ventes-de-mobiles-tire-les-resultats-vers-le-bas-64602.html";s:2:"dc";a:3:{s:4:"date";s:25:"2016-04-22T11:32:03+01:00";s:8:"language";s:2:"fr";s:7:"creator";s:12:"Serge Leblal";}s:7:"summary";s:169:"
+		L'acquisition de Nokia par Microsoft se r&eacute;v&egrave;le &ecirc;tre similaire &agrave; la complainte de l&rsquo;albatros autour du cou du vieux marin. (...)
+		
+		";}i:16;a:6:{s:5:"about";s:131:"http://www.lemondeinformatique.fr/actualites/lire-avec-ubuntu-1604-lts-canonical-apporte-le-support-de-mitaka-zfs-et-lxd-64591.html";s:5:"title";s:73:"Avec Ubuntu 16.04 LTS, Canonical apporte le support de Mitaka, ZFS et LXD";s:11:"description";s:171:"
+		Ubuntu 16.04, &eacute;galement connu sous le nom de Xenial Xerus, vient d&rsquo;arriver. C&rsquo;est la sixi&egrave;me version LTS &ndash; Long-Term Support (...)
+		
+		";s:4:"link";s:131:"http://www.lemondeinformatique.fr/actualites/lire-avec-ubuntu-1604-lts-canonical-apporte-le-support-de-mitaka-zfs-et-lxd-64591.html";s:2:"dc";a:3:{s:4:"date";s:25:"2016-04-22T09:55:04+01:00";s:8:"language";s:2:"fr";s:7:"creator";s:49:"Katherine Noyes / IDG NS (adaptation Maryse Gros)";}s:7:"summary";s:171:"
+		Ubuntu 16.04, &eacute;galement connu sous le nom de Xenial Xerus, vient d&rsquo;arriver. C&rsquo;est la sixi&egrave;me version LTS &ndash; Long-Term Support (...)
+		
+		";}i:17;a:6:{s:5:"about";s:140:"http://www.lemondeinformatique.fr/actualites/lire-digital-asset-holdings-rachete-elevance-start-up-specialisee-dans-le-blockchain-64596.html";s:5:"title";s:80:"Digital Asset Holdings rachète Elevance, start-up spécialisée dans le blockchain";s:11:"description";s:172:"
+		La jeune pousse fintech Elevance, bas&eacute;e &agrave; Zurich, a &eacute;t&eacute; rachet&eacute;e par la start-up am&eacute;ricaine Digital Asset Holdings. (...)
+		
+		";s:4:"link";s:140:"http://www.lemondeinformatique.fr/actualites/lire-digital-asset-holdings-rachete-elevance-start-up-specialisee-dans-le-blockchain-64596.html";s:2:"dc";a:3:{s:4:"date";s:25:"2016-04-22T08:59:46+01:00";s:8:"language";s:2:"fr";s:7:"creator";s:30:"Yannick Chavanne / ICT Journal";}s:7:"summary";s:172:"
+		La jeune pousse fintech Elevance, bas&eacute;e &agrave; Zurich, a &eacute;t&eacute; rachet&eacute;e par la start-up am&eacute;ricaine Digital Asset Holdings. (...)
+		
+		";}i:18;a:6:{s:5:"about";s:80:"http://www.lemondeinformatique.fr/actualites/lire-doodle-perd-son-ceo-64595.html";s:5:"title";s:19:"Doodle perd son CEO";s:11:"description";s:169:"
+		Michael Brecht, CEO de Doodle, quittera cet &eacute;t&eacute; la soci&eacute;t&eacute; appartenant &agrave; Tamedia. Il continuera sa carri&egrave;re dans (...)
+		
+		";s:4:"link";s:80:"http://www.lemondeinformatique.fr/actualites/lire-doodle-perd-son-ceo-64595.html";s:2:"dc";a:3:{s:4:"date";s:25:"2016-04-22T08:49:18+01:00";s:8:"language";s:2:"fr";s:7:"creator";s:30:"Yannick Chavanne / ICT Journal";}s:7:"summary";s:169:"
+		Michael Brecht, CEO de Doodle, quittera cet &eacute;t&eacute; la soci&eacute;t&eacute; appartenant &agrave; Tamedia. Il continuera sa carri&egrave;re dans (...)
+		
+		";}i:19;a:6:{s:5:"about";s:124:"http://www.lemondeinformatique.fr/actualites/lire-orange-deploie-5-000-balises-beacons-dans-des-boutiques-a-paris-64593.html";s:5:"title";s:63:"Orange déploie 5 000 balises beacons dans des boutiques à Paris";s:11:"description";s:171:"
+		Pour permettre aux annonceurs publicitaires de personnaliser leurs messages au plus pr&egrave;s de leurs clients et leur adresser des offres promotionnelles (...)
+		
+		";s:4:"link";s:124:"http://www.lemondeinformatique.fr/actualites/lire-orange-deploie-5-000-balises-beacons-dans-des-boutiques-a-paris-64593.html";s:2:"dc";a:3:{s:4:"date";s:25:"2016-04-21T18:34:42+01:00";s:8:"language";s:2:"fr";s:7:"creator";s:11:"Maryse Gros";}s:7:"summary";s:171:"
+		Pour permettre aux annonceurs publicitaires de personnaliser leurs messages au plus pr&egrave;s de leurs clients et leur adresser des offres promotionnelles (...)
+		
+		";}}s:7:"channel";a:6:{s:5:"title";s:19:"Actualités logiciel";s:11:"description";s:138:"Actualités logiciel parues sur LeMondeInformatique.fr, le site d'actualité et d'information économique du monde informatique professionnel";s:4:"link";s:59:"http://www.lemondeinformatique.fr/flux-rss/logiciel/rss.xml";s:5:"items";s:5:"
+		
+	";s:9:"items_seq";s:25:"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		";s:7:"tagline";s:138:"Actualités logiciel parues sur LeMondeInformatique.fr, le site d'actualité et d'information économique du monde informatique professionnel";}s:9:"textinput";a:0:{}s:5:"image";a:0:{}s:9:"feed_type";s:3:"RSS";s:12:"feed_version";s:3:"1.0";s:8:"encoding";s:10:"ISO-8859-1";s:16:"_source_encoding";s:0:"";s:5:"ERROR";s:0:"";s:7:"WARNING";s:0:"";s:19:"_CONTENT_CONSTRUCTS";a:6:{i:0;s:7:"content";i:1;s:7:"summary";i:2;s:4:"info";i:3;s:5:"title";i:4;s:7:"tagline";i:5;s:9:"copyright";}s:16:"_KNOWN_ENCODINGS";a:3:{i:0;s:5:"UTF-8";i:1;s:8:"US-ASCII";i:2;s:10:"ISO-8859-1";}s:5:"stack";a:0:{}s:9:"inchannel";b:0;s:6:"initem";b:0;s:9:"incontent";b:0;s:11:"intextinput";b:0;s:7:"inimage";b:0;s:17:"current_namespace";b:0;}
