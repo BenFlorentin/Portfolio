@@ -55,7 +55,7 @@
                     </button>
                     <a class="navbar-brand page-scroll" href="#page-top">Florentin Benjamin</a>
                 </div>
-
+                   
                 <!-- Collect the nav links, forms, and other content for toggling -->
                 <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                     <ul class="nav navbar-nav navbar-right">
@@ -143,25 +143,25 @@
                 <div class="container">
                     <div class="row no-gutter">
                         <div class="col-lg-12 text-center">
-                           <h2 class="section-heading">Mes projets</h2>
-                           <hr class="primary">
-                       </div>
+                         <h2 class="section-heading">Mes projets</h2>
+                         <hr class="primary">
+                     </div>
 
 
-                       <div class="col-lg-6 col-sm-6">
-                            <a href="#famillydog" class="portfolio-box">
-                                <img src="img/7.jpg" class="img-responsive" alt="">
-                                <div class="portfolio-box-caption">
-                                    <div class="portfolio-box-caption-content">
-                                         <button class="project-category text-faded" style="color: #fff; hover: #eb3812; background-color: rgba(240,95,64,.9); border: none; border-radius: 10px;" data-toggle="modal" data-target="#famillydog">
-                                            Stage
-                                            <br/>
-                                            Famillydog
-                                        </button>
-                                    </div>
-                                </div>
-                            </a>
+                     <div class="col-lg-6 col-sm-6">
+                        <a href="#famillydog" class="portfolio-box">
+                            <img src="img/7.jpg" class="img-responsive" alt="">
+                            <div class="portfolio-box-caption">
+                                <div class="portfolio-box-caption-content">
+                                   <button class="project-category text-faded" style="color: #fff; hover: #eb3812; background-color: rgba(240,95,64,.9); border: none; border-radius: 10px;" data-toggle="modal" data-target="#famillydog">
+                                    Stage
+                                    <br/>
+                                    Famillydog
+                                </button>
+                            </div>
                         </div>
+                    </a>
+                </div>
                 <!-- Modal -->
                 <div class="modal fade" id="famillydog" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
                     <div class="modal-dialog" style="width: 90%">
@@ -183,7 +183,7 @@
                         <img src="img/ben&xav.png" class="img-responsive" alt="">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
-                             <button class="project-category text-faded" style="color: #fff; hover: #eb3812; background-color: rgba(240,95,64,.9); border: none; border-radius: 10px;" data-toggle="modal" data-target="#ben">
+                               <button class="project-category text-faded" style="color: #fff; hover: #eb3812; background-color: rgba(240,95,64,.9); border: none; border-radius: 10px;" data-toggle="modal" data-target="#ben">
                                 Personnel
                                 <br/>
                                 Ben & Xav'
@@ -209,9 +209,9 @@
         </div>
         <br/>
         <div class="col-lg-12 text-center">
-           <a href="#stage" class="btn btn-primary btn-xl page-scroll">Mes stages</a>
-       </div>
-   </div>
+         <a href="#stage" class="btn btn-primary btn-xl page-scroll">Mes stages</a>
+     </div>
+ </div>
 </section>
 
 <section class="bg-primary" id="stage">
@@ -270,9 +270,9 @@
         </div>
     </div>
     <div class="container">
-     <?php include'rss.php'; ?>
- </div>
- <div class="container">
+       <?php include'rss.php'; ?>
+   </div>
+   <div class="container">
     <div class="row">
         <div class="col-lg-8 col-lg-offset-2 text-center">
             <br/>
